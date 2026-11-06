@@ -1,8 +1,8 @@
 {
-    "schema": "1",
-    "id": "spinzs_mod",
-    "modid": "spinzs_mod",
-    "platforms": {
-        "modrinth": "spinzs-mod"
-    }
+  "schema": "1",
+  "id": "spinzs-mod",
+  "modid": "spinzs_mod",
+  "platforms": {
+    "modrinth": "spinzs-mod"
+  }
 }
