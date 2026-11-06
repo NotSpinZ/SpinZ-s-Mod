@@ -1,0 +1,9 @@
+{
+  "parent": "spinzs_mod:custom/cryocooler",
+  "textures": {
+    "all": "spinzs_mod:block/cryocooler",
+    "particle": "spinzs_mod:block/cryocooler",
+    "0": "spinzs_mod:block/cryocooler"
+  },
+  "render_type": "solid"
+}

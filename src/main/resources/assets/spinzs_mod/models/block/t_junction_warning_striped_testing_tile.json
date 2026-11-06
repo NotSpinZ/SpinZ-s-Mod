@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "spinzs_mod:block/warning_striped_testing_tile_90d",
+    "up": "spinzs_mod:block/warning_striped_testing_tile_90d",
+    "north": "spinzs_mod:block/warning_striped_testing_tile_t",
+    "east": "spinzs_mod:block/warning_striped_testing_tile_edged",
+    "south": "spinzs_mod:block/warning_striped_testing_tile_t",
+    "west": "spinzs_mod:block/warning_striped_testing_tile_edged",
+    "particle": "spinzs_mod:block/warning_striped_testing_tile_90d"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "mekanism:pellet_polonium",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "spinzs_mod:silver_block"
+    }
+  },
+  "result": {
+    "id": "spinzs_mod:silver_ingot",
+    "count": 9
+  }
+}

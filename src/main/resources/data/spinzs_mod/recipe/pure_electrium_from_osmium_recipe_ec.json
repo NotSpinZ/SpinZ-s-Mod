@@ -1,0 +1,17 @@
+{
+  "type": "spinzs_mod:electrium_collecting",
+  "ingredients": [
+    {
+      "item": "mekanism:nugget_osmium"
+    }
+  ],
+  "strings": [
+    "Power Required: 500"
+  ],
+  "outputs": [
+    {
+      "id": "spinzs_mod:pure_electrium",
+      "count": 1
+    }
+  ]
+}

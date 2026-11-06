@@ -1,0 +1,67 @@
+{
+  "_fv": 85,
+  "_type": "fluid",
+  "definition": {
+    "name": "Nitrogen",
+    "bucketName": "Nitrogen Bucket",
+    "textureStill": "nitrogen",
+    "textureFlowing": "nitrogen",
+    "textureRenderOverlay": "",
+    "hasFog": false,
+    "fogStartDistance": {
+      "fixedValue": 0.0
+    },
+    "fogEndDistance": {
+      "fixedValue": 48.0
+    },
+    "tintType": "No tint",
+    "canMultiply": false,
+    "flowRate": 10000,
+    "levelDecrease": 8,
+    "slopeFindDistance": 1,
+    "spawnParticles": false,
+    "dripParticle": {
+      "value": "CUSTOM:PopperBoom"
+    },
+    "flowStrength": 0.0,
+    "luminosity": 0,
+    "density": 0,
+    "viscosity": 100000,
+    "temperature": 300,
+    "type": "WATER",
+    "generateBucket": false,
+    "textureBucket": "",
+    "creativeTabs": [],
+    "emptySound": {
+      "value": ""
+    },
+    "rarity": "COMMON",
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "resistance": 0.0,
+    "luminance": 0,
+    "lightOpacity": 0,
+    "emissiveRendering": false,
+    "tickRate": 0,
+    "ignitedByLava": false,
+    "flammability": 0,
+    "fireSpreadSpeed": 0,
+    "colorOnMap": "DEFAULT",
+    "onBlockAdded": {
+      "name": "NitrogenBlockAdded"
+    },
+    "onNeighbourChanges": {
+      "name": "NitrogenBlockAdded"
+    },
+    "onTickUpdate": {
+      "name": "NitrogenBlockAdded"
+    },
+    "onEntityCollides": {
+      "name": "NitrogenBlockAdded"
+    },
+    "onRandomUpdateEvent": {
+      "name": "NitrogenBlockAdded"
+    }
+  }
+}

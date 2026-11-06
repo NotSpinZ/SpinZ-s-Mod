@@ -1,0 +1,24 @@
+{
+  "_fv": 85,
+  "_type": "achievement",
+  "definition": {
+    "achievementName": "SpinZ's Mod",
+    "achievementDescription": "Duplication; only 53 steps away!",
+    "achievementIcon": {
+      "value": "CUSTOM:Flask"
+    },
+    "background": "titanium_block.png",
+    "disableDisplay": false,
+    "showPopup": true,
+    "announceToChat": true,
+    "hideIfNotCompleted": false,
+    "rewardLoot": [],
+    "rewardRecipes": [],
+    "rewardXP": 0,
+    "achievementType": "task",
+    "parent": {
+      "value": "No parent: root"
+    },
+    "triggerxml": "<xml xmlns=\"https://developers.google.com/blockly/xml\"><block type=\"advancement_trigger\" deletable=\"false\" x=\"40\" y=\"80\"><next><block type=\"item_in_inventory\"><value name=\"amount_l\"><block type=\"math_number\"><field name=\"NUM\">1</field></block></value><value name=\"amount_h\"><block type=\"math_number\"><field name=\"NUM\">9999999999</field></block></value><value name=\"item\"><block type=\"any_item_in\"><mutation xmlns=\"http://www.w3.org/1999/xhtml\" inputs=\"22\"></mutation><field name=\"item0\">CUSTOM:RawSilver</field><field name=\"item1\">CUSTOM:RawTitanium</field><field name=\"item2\">CUSTOM:IronGear</field><field name=\"item3\">CUSTOM:GoldGear</field><field name=\"item4\">CUSTOM:DiamondGear</field><field name=\"item5\">CUSTOM:IronRod</field><field name=\"item6\">CUSTOM:GoldRod</field><field name=\"item7\">CUSTOM:DiamondRod</field><field name=\"item8\">CUSTOM:ElectriumIngot</field><field name=\"item9\">CUSTOM:ElectriumShard</field><field name=\"item10\">CUSTOM:Hydrogenator</field><field name=\"item11\">CUSTOM:Glowine</field><field name=\"item12\">CUSTOM:BlockOfTitanium</field><field name=\"item13\">CUSTOM:TestingTile</field><field name=\"item14\">CUSTOM:ElectrylosisConductor</field><field name=\"item15\">CUSTOM:Flask</field><field name=\"item16\">CUSTOM:Vile</field><field name=\"item17\">CUSTOM:ShadiumFragment</field><field name=\"item18\">CUSTOM:ShadiumIngot</field><field name=\"item19\">CUSTOM:RefractingShard</field><field name=\"item20\">CUSTOM:ElectriumFurnace</field><field name=\"item21\">CUSTOM:ElectriumCollector</field></block></value></block></next></block></xml>"
+  }
+}

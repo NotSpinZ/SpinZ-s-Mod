@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "spinzs_mod:block/electrium_collector"
+    },
+    "facing=east": {
+      "model": "spinzs_mod:block/electrium_collector",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "spinzs_mod:block/electrium_collector",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "spinzs_mod:block/electrium_collector",
+      "y": 270
+    }
+  }
+}

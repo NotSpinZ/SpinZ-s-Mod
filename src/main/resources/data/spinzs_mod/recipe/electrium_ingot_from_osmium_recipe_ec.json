@@ -1,0 +1,17 @@
+{
+  "type": "spinzs_mod:electrium_collecting",
+  "ingredients": [
+    {
+      "item": "mekanism:ingot_osmium"
+    }
+  ],
+  "strings": [
+    "Power Required: 100"
+  ],
+  "outputs": [
+    {
+      "id": "spinzs_mod:electrium_ingot",
+      "count": 1
+    }
+  ]
+}

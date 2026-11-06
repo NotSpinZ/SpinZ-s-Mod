@@ -1,0 +1,28 @@
+{
+  "_fv": 85,
+  "_type": "jeirecipe",
+  "definition": {
+    "category": "component_application",
+    "ingredients": [
+      {
+        "value": "CUSTOM:SimpleElectriumBoard"
+      },
+      {
+        "value": "Items.GOLD_INGOT"
+      },
+      {
+        "value": "Items.AMETHYST_SHARD"
+      }
+    ],
+    "integers": [],
+    "strings": [],
+    "recipetype": "ComponentApplication",
+    "results": [
+      {
+        "value": "CUSTOM:ComplexElectriumBoard"
+      }
+    ],
+    "resultCounts": [],
+    "count": 0
+  }
+}

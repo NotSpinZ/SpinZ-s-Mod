@@ -1,0 +1,14 @@
+{
+  "type": "spinzs_mod:electrium_crushing_jei",
+  "ingredients": [
+    {
+      "item": "minecraft:bone_block"
+    }
+  ],
+  "outputs": [
+    {
+      "id": "minecraft:bone_meal",
+      "count": 36
+    }
+  ]
+}

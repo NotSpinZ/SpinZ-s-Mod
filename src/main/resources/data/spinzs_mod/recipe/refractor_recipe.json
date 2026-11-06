@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "abc",
+    "def",
+    "ggg"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:iron_block"
+    },
+    "b": {
+      "item": "minecraft:tinted_glass"
+    },
+    "c": {
+      "item": "spinzs_mod:simple_electrium_wire"
+    },
+    "d": {
+      "item": "minecraft:redstone"
+    },
+    "e": {
+      "item": "spinzs_mod:prism"
+    },
+    "f": {
+      "item": "minecraft:glass"
+    },
+    "g": {
+      "item": "minecraft:deepslate_bricks"
+    }
+  },
+  "result": {
+    "id": "spinzs_mod:refractor",
+    "count": 1
+  }
+}

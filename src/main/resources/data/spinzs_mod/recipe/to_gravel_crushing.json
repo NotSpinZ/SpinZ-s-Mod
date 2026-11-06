@@ -1,0 +1,14 @@
+{
+  "type": "spinzs_mod:electrium_crushing_jei",
+  "ingredients": [
+    {
+      "tag": "spinzs_mod:crush_to_gravel"
+    }
+  ],
+  "outputs": [
+    {
+      "id": "minecraft:gravel",
+      "count": 2
+    }
+  ]
+}

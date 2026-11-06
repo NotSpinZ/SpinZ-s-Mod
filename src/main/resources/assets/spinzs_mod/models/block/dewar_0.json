@@ -1,0 +1,9 @@
+{
+  "parent": "spinzs_mod:custom/dewar_top",
+  "textures": {
+    "all": "spinzs_mod:block/dewar_top",
+    "particle": "spinzs_mod:block/dewar_bot",
+    "1": "spinzs_mod:block/dewar_top"
+  },
+  "render_type": "solid"
+}

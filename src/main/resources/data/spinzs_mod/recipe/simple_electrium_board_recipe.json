@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc"
+  ],
+  "key": {
+    "a": {
+      "item": "spinzs_mod:simple_electrium_wire"
+    },
+    "b": {
+      "item": "spinzs_mod:electrium_ingot"
+    },
+    "c": {
+      "item": "minecraft:copper_ingot"
+    },
+    "d": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "id": "spinzs_mod:simple_electrium_board",
+    "count": 2
+  }
+}

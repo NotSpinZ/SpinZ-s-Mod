@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "evolvedmekanism:block_alloy_singular",
+      "required": false
+    },
+    {
+      "id": "evolvedmekanism:alloy_singular",
+      "required": false
+    }
+  ]
+}

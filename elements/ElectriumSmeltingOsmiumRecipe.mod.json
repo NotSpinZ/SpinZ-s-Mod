@@ -1,0 +1,38 @@
+{
+  "_fv": 85,
+  "_type": "jeirecipe",
+  "definition": {
+    "category": "electrium_smelting_jei",
+    "ingredients": [
+      {
+        "value": "CUSTOM:RawSilver"
+      },
+      {
+        "value": "CUSTOM:SilverIngot"
+      },
+      {
+        "value": "CUSTOM:CopperCoil"
+      }
+    ],
+    "integers": [
+      1,
+      1,
+      1
+    ],
+    "strings": [],
+    "recipetype": "ElectriumSmeltingJEI",
+    "results": [
+      {
+        "value": "CUSTOM:SilverIngot"
+      },
+      {
+        "value": "CUSTOM:Paramelaconite"
+      }
+    ],
+    "resultCounts": [
+      3,
+      1
+    ],
+    "count": 0
+  }
+}

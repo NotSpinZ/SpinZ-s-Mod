@@ -1,0 +1,49 @@
+{
+  "variants": {
+    "facing=north,e_furnace_flames=empty": {
+      "model": "spinzs_mod:block/electrium_furnace_0"
+    },
+    "facing=north,e_furnace_flames=flame": {
+      "model": "spinzs_mod:block/electrium_furnace_1"
+    },
+    "facing=north,e_furnace_flames=full": {
+      "model": "spinzs_mod:block/electrium_furnace_2"
+    },
+    "facing=east,e_furnace_flames=empty": {
+      "model": "spinzs_mod:block/electrium_furnace_0",
+      "y": 90
+    },
+    "facing=east,e_furnace_flames=flame": {
+      "model": "spinzs_mod:block/electrium_furnace_1",
+      "y": 90
+    },
+    "facing=east,e_furnace_flames=full": {
+      "model": "spinzs_mod:block/electrium_furnace_2",
+      "y": 90
+    },
+    "facing=south,e_furnace_flames=empty": {
+      "model": "spinzs_mod:block/electrium_furnace_0",
+      "y": 180
+    },
+    "facing=south,e_furnace_flames=flame": {
+      "model": "spinzs_mod:block/electrium_furnace_1",
+      "y": 180
+    },
+    "facing=south,e_furnace_flames=full": {
+      "model": "spinzs_mod:block/electrium_furnace_2",
+      "y": 180
+    },
+    "facing=west,e_furnace_flames=empty": {
+      "model": "spinzs_mod:block/electrium_furnace_0",
+      "y": 270
+    },
+    "facing=west,e_furnace_flames=flame": {
+      "model": "spinzs_mod:block/electrium_furnace_1",
+      "y": 270
+    },
+    "facing=west,e_furnace_flames=full": {
+      "model": "spinzs_mod:block/electrium_furnace_2",
+      "y": 270
+    }
+  }
+}

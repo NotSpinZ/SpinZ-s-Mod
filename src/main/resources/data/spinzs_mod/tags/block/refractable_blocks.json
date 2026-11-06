@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "spinzs_mod:shadium_block",
+    {
+      "id": "#minecraft:logs",
+      "required": false
+    },
+    "minecraft:glass"
+  ]
+}

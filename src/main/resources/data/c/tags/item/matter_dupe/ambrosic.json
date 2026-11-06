@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "deep_aether:ambrosium_tiki_torch",
+      "required": false
+    },
+    {
+      "id": "aether:ambrosium_shard",
+      "required": false
+    },
+    {
+      "id": "aether:ambrosium_block",
+      "required": false
+    },
+    {
+      "id": "aether:ambrosium_torch",
+      "required": false
+    }
+  ]
+}

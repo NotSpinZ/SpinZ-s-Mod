@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "aba",
+    "bbb",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "spinzs_mod:shadium_fragment"
+    },
+    "b": {
+      "item": "spinzs_mod:shadium_ingot"
+    }
+  },
+  "result": {
+    "id": "spinzs_mod:shadium_block",
+    "count": 1
+  }
+}

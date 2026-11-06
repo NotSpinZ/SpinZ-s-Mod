@@ -1,0 +1,20 @@
+{
+  "replace": false,
+  "values": [
+    "spinzs_mod:blue_striped_testing_concrete",
+    "spinzs_mod:light_gray_striped_testing_concrete",
+    "spinzs_mod:cyan_striped_testing_concrete",
+    "spinzs_mod:gray_striped_testing_concrete",
+    "spinzs_mod:light_blue_striped_testing_concrete",
+    "spinzs_mod:pink_striped_testing_concrete",
+    "spinzs_mod:brown_striped_testing_concrete",
+    "spinzs_mod:orange_striped_testing_concrete",
+    "spinzs_mod:yellow_striped_testing_concrete",
+    "spinzs_mod:magenta_striped_testing_concrete",
+    "spinzs_mod:lime_striped_testing_concrete",
+    "spinzs_mod:testing_concrete",
+    "spinzs_mod:purple_striped_testing_concrete",
+    "spinzs_mod:white_striped_testing_concrete",
+    "spinzs_mod:black_striped_testing_concrete"
+  ]
+}

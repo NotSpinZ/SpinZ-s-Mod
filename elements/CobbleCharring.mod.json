@@ -1,0 +1,25 @@
+{
+  "_fv": 85,
+  "_type": "jeirecipe",
+  "definition": {
+    "category": "charring_jei",
+    "ingredients": [
+      {
+        "value": "TAG:mod:charring_stations"
+      },
+      {
+        "value": "Blocks.STONE#0"
+      }
+    ],
+    "integers": [],
+    "strings": [],
+    "recipetype": "CharringJEI",
+    "results": [
+      {
+        "value": "Blocks.COBBLESTONE"
+      }
+    ],
+    "resultCounts": [],
+    "count": 0
+  }
+}

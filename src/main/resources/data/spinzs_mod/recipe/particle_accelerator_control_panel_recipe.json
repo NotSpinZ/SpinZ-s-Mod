@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "bcb",
+    "def"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:stone_button"
+    },
+    "b": {
+      "item": "spinzs_mod:complex_electrium_board"
+    },
+    "c": {
+      "item": "spinzs_mod:reinforced_titanium_block"
+    },
+    "d": {
+      "item": "minecraft:redstone_torch"
+    },
+    "e": {
+      "item": "spinzs_mod:complex_electrium_wire"
+    },
+    "f": {
+      "item": "spinzs_mod:complex_electrium_pump"
+    }
+  },
+  "result": {
+    "id": "spinzs_mod:particle_accelerator_control_panel",
+    "count": 1
+  }
+}

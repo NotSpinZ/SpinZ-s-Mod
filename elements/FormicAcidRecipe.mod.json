@@ -1,0 +1,28 @@
+{
+  "_fv": 85,
+  "_type": "jeirecipe",
+  "definition": {
+    "category": "hydrogenation_jei",
+    "ingredients": [
+      {
+        "value": "CUSTOM:CO2Vile"
+      },
+      {
+        "value": "TAG:mod:valid_hydrogenator_catalyst"
+      },
+      {
+        "value": "CUSTOM:Flask"
+      }
+    ],
+    "integers": [],
+    "strings": [],
+    "recipetype": "HydrogenationJEI",
+    "results": [
+      {
+        "value": "CUSTOM:FormicAcidVile"
+      }
+    ],
+    "resultCounts": [],
+    "count": 0
+  }
+}

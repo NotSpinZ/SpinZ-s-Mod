@@ -1,0 +1,53 @@
+{
+  "_fv": 85,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 8,
+    "group": "",
+    "unlockingItems": [
+      {
+        "value": "TAG:mod:concrete"
+      }
+    ],
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "BUILDING",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "TAG:mod:concrete"
+      },
+      {
+        "value": "TAG:mod:concrete"
+      },
+      {
+        "value": "TAG:mod:concrete"
+      },
+      {
+        "value": "TAG:mod:concrete"
+      },
+      {
+        "value": "Items.DYE#18"
+      },
+      {
+        "value": "TAG:mod:concrete"
+      },
+      {
+        "value": "TAG:mod:concrete"
+      },
+      {
+        "value": "TAG:mod:concrete"
+      },
+      {
+        "value": "TAG:mod:concrete"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:BlueStripedTestingConcrete"
+    },
+    "name": "blue_striped_testing_concrete_recipe",
+    "namespace": "mod"
+  }
+}

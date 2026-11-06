@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "electrium_ingot",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "aba",
+    " a "
+  ],
+  "key": {
+    "a": {
+      "item": "spinzs_mod:electrium_shard"
+    },
+    "b": {
+      "item": "mekanism:ingot_osmium"
+    }
+  },
+  "result": {
+    "id": "spinzs_mod:electrium_ingot",
+    "count": 1
+  }
+}

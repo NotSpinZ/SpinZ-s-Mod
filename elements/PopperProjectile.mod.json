@@ -1,0 +1,29 @@
+{
+  "_fv": 85,
+  "_type": "projectile",
+  "definition": {
+    "projectileItem": {
+      "value": "CUSTOM:Popper"
+    },
+    "showParticles": false,
+    "actionSound": {
+      "value": "CUSTOM:spinzs_mod.items.popper.throw"
+    },
+    "igniteFire": false,
+    "disableGravity": false,
+    "disableDiscarding": false,
+    "power": 0.5,
+    "damage": 0.0,
+    "knockback": 0,
+    "entityModel": "Default",
+    "customModelTexture": "",
+    "modelWidth": 0.35,
+    "modelHeight": 0.35,
+    "onHitsBlock": {
+      "name": "PopperProjectileProjectileHitsBlock"
+    },
+    "onHitsEntity": {
+      "name": "PopperProjectileProjectileHitsBlock"
+    }
+  }
+}

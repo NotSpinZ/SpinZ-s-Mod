@@ -1,0 +1,39 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "abc",
+    "def",
+    "geh"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:water_bucket"
+    },
+    "b": {
+      "item": "minecraft:glass"
+    },
+    "c": {
+      "item": "minecraft:lava_bucket"
+    },
+    "d": {
+      "item": "minecraft:stone_button"
+    },
+    "e": {
+      "item": "spinzs_mod:reinforced_titanium_block"
+    },
+    "f": {
+      "item": "spinzs_mod:titanium_ingot"
+    },
+    "g": {
+      "item": "spinzs_mod:complex_electrium_pump"
+    },
+    "h": {
+      "item": "spinzs_mod:complex_electrium_board"
+    }
+  },
+  "result": {
+    "id": "spinzs_mod:particle_accelerator_heat_module",
+    "count": 1
+  }
+}

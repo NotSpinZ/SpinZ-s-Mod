@@ -1,0 +1,9 @@
+{
+  "parent": "spinzs_mod:custom/component_applier",
+  "textures": {
+    "all": "spinzs_mod:block/component_applier",
+    "particle": "spinzs_mod:block/component_applier",
+    "0": "spinzs_mod:block/component_applier"
+  },
+  "render_type": "solid"
+}

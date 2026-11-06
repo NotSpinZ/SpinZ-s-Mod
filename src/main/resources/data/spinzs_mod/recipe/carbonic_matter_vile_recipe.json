@@ -1,0 +1,21 @@
+{
+  "type": "spinzs_mod:particle_acceleration",
+  "ingredients": [
+    {
+      "tag": "c:matter_dupe/carbon"
+    },
+    {
+      "item": "spinzs_mod:vile"
+    }
+  ],
+  "strings": [
+    "heat: 180°C",
+    "speed: 25km/s"
+  ],
+  "outputs": [
+    {
+      "id": "spinzs_mod:carbonic_matter_vile",
+      "count": 1
+    }
+  ]
+}

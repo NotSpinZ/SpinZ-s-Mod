@@ -1,0 +1,14 @@
+{
+  "type": "spinzs_mod:electrium_crushing_jei",
+  "ingredients": [
+    {
+      "tag": "spinzs_mod:crush_to_cobble"
+    }
+  ],
+  "outputs": [
+    {
+      "id": "minecraft:cobblestone",
+      "count": 1
+    }
+  ]
+}

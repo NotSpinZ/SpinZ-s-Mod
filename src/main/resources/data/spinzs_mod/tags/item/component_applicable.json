@@ -1,0 +1,15 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:gold_ingot",
+    "spinzs_mod:titanium_ingot",
+    "spinzs_mod:pure_electrium",
+    "spinzs_mod:electrium_shard",
+    "minecraft:diamond",
+    "spinzs_mod:enderrubber_membrane",
+    "minecraft:string",
+    "minecraft:copper_ingot",
+    "spinzs_mod:conductive_coil",
+    "minecraft:amethyst_shard"
+  ]
+}

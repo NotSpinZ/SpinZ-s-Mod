@@ -1,0 +1,14 @@
+{
+  "type": "spinzs_mod:electrium_crushing_jei",
+  "ingredients": [
+    {
+      "item": "spinzs_mod:raw_silver"
+    }
+  ],
+  "outputs": [
+    {
+      "id": "spinzs_mod:silver_dust",
+      "count": 1
+    }
+  ]
+}

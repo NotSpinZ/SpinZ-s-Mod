@@ -1,0 +1,28 @@
+{
+  "_fv": 85,
+  "_type": "jeirecipe",
+  "definition": {
+    "category": "component_application",
+    "ingredients": [
+      {
+        "value": "Items.IRON_INGOT"
+      },
+      {
+        "value": "CUSTOM:ElectriumShard"
+      },
+      {
+        "value": "CUSTOM:ElectriumShard"
+      }
+    ],
+    "integers": [],
+    "strings": [],
+    "recipetype": "ComponentApplication",
+    "results": [
+      {
+        "value": "CUSTOM:ElectriumIngot"
+      }
+    ],
+    "resultCounts": [],
+    "count": 0
+  }
+}

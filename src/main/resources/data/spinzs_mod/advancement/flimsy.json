@@ -1,0 +1,34 @@
+{
+  "display": {
+    "icon": {
+      "id": "spinzs_mod:enderrubber"
+    },
+    "title": {
+      "translate": "advancements.flimsy.title"
+    },
+    "description": {
+      "translate": "advancements.flimsy.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "flimsy_0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "spinzs_mod:enderrubber",
+            "count": {
+              "min": 1,
+              "max": 99999999
+            }
+          }
+        ]
+      }
+    }
+  },
+  "parent": "spinzs_mod:hydrogenationatorination"
+}

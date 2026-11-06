@@ -1,0 +1,29 @@
+{
+  "replace": false,
+  "values": [
+    "spinzs_mod:t_junction_warning_striped_testing_tile",
+    "spinzs_mod:lighting_warning_testing_tile",
+    "spinzs_mod:silver_frame",
+    "spinzs_mod:corner_warning_striped_testing_tile",
+    "spinzs_mod:electrium_dye_crusher",
+    "spinzs_mod:raw_silver_block",
+    "spinzs_mod:electrylosis_conductor",
+    "spinzs_mod:electrium_collector",
+    "spinzs_mod:component_applier",
+    "spinzs_mod:cryocooler",
+    "spinzs_mod:dewar",
+    "spinzs_mod:warning_striped_testing_tile",
+    "spinzs_mod:metal_testing_tile",
+    "spinzs_mod:silver_block",
+    "spinzs_mod:silicon_block",
+    "spinzs_mod:electrium_crusher",
+    "spinzs_mod:refractor",
+    "spinzs_mod:silver_ore",
+    "spinzs_mod:titanium_plated_iron_block",
+    "spinzs_mod:lighting_metal_testing_tile",
+    "spinzs_mod:membrane_nitrogen_generator",
+    "spinzs_mod:deepslate_silver_ore",
+    "spinzs_mod:hydrogenator",
+    "spinzs_mod:paramelaconite_block"
+  ]
+}

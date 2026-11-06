@@ -1,0 +1,20 @@
+{
+  "type": "spinzs_mod:component_application",
+  "ingredients": [
+    {
+      "item": "minecraft:tinted_glass"
+    },
+    {
+      "item": "spinzs_mod:refracting_shard"
+    },
+    {
+      "item": "spinzs_mod:refracting_shard"
+    }
+  ],
+  "outputs": [
+    {
+      "id": "spinzs_mod:prism",
+      "count": 1
+    }
+  ]
+}

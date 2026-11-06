@@ -1,0 +1,1 @@
+{"type":"mekanism:metallurgic_infusing","chemical_input":{"amount":50,"tag":"spinzs_mod:liquid_electrium"},"item_input":{"count":1,"tag":"c:nuggets/iron"},"output":{"count":1,"id":"spinzs_mod:pure_electrium"},"per_tick_usage":false}

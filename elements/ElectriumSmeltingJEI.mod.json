@@ -1,0 +1,110 @@
+{
+  "_fv": 85,
+  "_type": "jeirecipetype",
+  "definition": {
+    "textureSelector": "electrium_smelting_jei.png",
+    "width": 175,
+    "height": 87,
+    "icon": {
+      "value": "CUSTOM:ElectriumFurnace"
+    },
+    "craftingtables": [
+      {
+        "value": "CUSTOM:ElectriumFurnace"
+      }
+    ],
+    "enableCraftingtable": true,
+    "enableIntList": true,
+    "enableStringList": false,
+    "disableJeiBorder": true,
+    "title": "Electrium Smelting JEI",
+    "slotList": [
+      {
+        "type": "INPUT",
+        "x": 61,
+        "y": 26,
+        "slotid": 0
+      },
+      {
+        "type": "INPUT",
+        "x": 61,
+        "y": 62,
+        "slotid": 1
+      },
+      {
+        "type": "INPUT",
+        "x": 88,
+        "y": 44,
+        "slotid": 2
+      },
+      {
+        "type": "OUTPUT",
+        "x": 124,
+        "y": 26,
+        "slotid": 0
+      },
+      {
+        "type": "OUTPUT",
+        "x": 149,
+        "y": 26,
+        "slotid": 1
+      }
+    ],
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "name": "label_electrium_furnace",
+          "text": {
+            "fixedValue": "Electrium Furnace"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "hasShadow": false,
+          "x": 170,
+          "y": 113,
+          "locked": false
+        }
+      },
+      {
+        "type": "jei_sprite",
+        "data": {
+          "updateInterval": 1,
+          "sprite": "electrium_flame.png",
+          "spritesCount": 28,
+          "spriteIndex": {
+            "fixedValue": 0.0,
+            "name": ""
+          },
+          "x": 242,
+          "y": 153,
+          "locked": false
+        }
+      },
+      {
+        "type": "jei_sprite",
+        "data": {
+          "updateInterval": 2,
+          "sprite": "electrylosis_electrium.png",
+          "spritesCount": 22,
+          "spriteIndex": {
+            "fixedValue": 0.0,
+            "name": ""
+          },
+          "x": 138,
+          "y": 134,
+          "locked": false
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}

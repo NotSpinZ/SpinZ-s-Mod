@@ -1,0 +1,14 @@
+{
+  "type": "spinzs_mod:electrium_crushing_jei",
+  "ingredients": [
+    {
+      "item": "minecraft:honeycomb_block"
+    }
+  ],
+  "outputs": [
+    {
+      "id": "minecraft:honeycomb",
+      "count": 4
+    }
+  ]
+}

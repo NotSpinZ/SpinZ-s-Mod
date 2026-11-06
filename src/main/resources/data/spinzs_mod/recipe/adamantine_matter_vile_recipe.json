@@ -1,0 +1,21 @@
+{
+  "type": "spinzs_mod:particle_acceleration",
+  "ingredients": [
+    {
+      "tag": "c:matter_dupe/adamantine"
+    },
+    {
+      "item": "spinzs_mod:vile"
+    }
+  ],
+  "strings": [
+    "heat: 120°C",
+    "speed: 150 km/s"
+  ],
+  "outputs": [
+    {
+      "id": "spinzs_mod:adamantine_matter_vile",
+      "count": 1
+    }
+  ]
+}

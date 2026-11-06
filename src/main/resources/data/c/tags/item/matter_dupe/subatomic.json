@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "evolvedmekanism:alloy_subatomic",
+      "required": false
+    },
+    {
+      "id": "evolvedmekanism:block_alloy_subatomic",
+      "required": false
+    }
+  ]
+}

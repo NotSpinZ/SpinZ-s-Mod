@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "spinzs_mod:carbonic_matter",
+    "spinzs_mod:liquid_nitrogen",
+    "spinzs_mod:liquid_electrium",
+    "spinzs_mod:nitrogen",
+    "spinzs_mod:adamantine_matter",
+    "spinzs_mod:dark_matter"
+  ]
+}

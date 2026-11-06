@@ -1,0 +1,31 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "random_discs:emerald_disc_base",
+      "required": false
+    },
+    {
+      "id": "ironfurnaces:emerald_furnace",
+      "required": false
+    },
+    "minecraft:emerald",
+    {
+      "id": "mekanism:dust_emerald",
+      "required": false
+    },
+    "minecraft:emerald_block",
+    {
+      "id": "extended_storage:emerald_chest",
+      "required": false
+    },
+    {
+      "id": "extended_storage:old_emerald_chest",
+      "required": false
+    },
+    {
+      "id": "extended_storage:emerald_barrel",
+      "required": false
+    }
+  ]
+}

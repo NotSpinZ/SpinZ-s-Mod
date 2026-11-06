@@ -1,0 +1,57 @@
+{
+  "display": {
+    "background": "spinzs_mod:textures/screens/titanium_block.png",
+    "icon": {
+      "id": "spinzs_mod:flask"
+    },
+    "title": {
+      "translate": "advancements.scientific_revolution.title"
+    },
+    "description": {
+      "translate": "advancements.scientific_revolution.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "scientific_revolution_1": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "spinzs_mod:raw_silver",
+              "spinzs_mod:raw_titanium",
+              "spinzs_mod:iron_gear",
+              "spinzs_mod:gold_gear",
+              "spinzs_mod:diamond_gear",
+              "spinzs_mod:iron_rod",
+              "spinzs_mod:gold_rod",
+              "spinzs_mod:diamond_rod",
+              "spinzs_mod:electrium_ingot",
+              "spinzs_mod:electrium_shard",
+              "spinzs_mod:hydrogenator",
+              "spinzs_mod:glowine",
+              "spinzs_mod:block_of_titanium",
+              "spinzs_mod:testing_tile",
+              "spinzs_mod:electrylosis_conductor",
+              "spinzs_mod:flask",
+              "spinzs_mod:vile",
+              "spinzs_mod:shadium_fragment",
+              "spinzs_mod:shadium_ingot",
+              "spinzs_mod:refracting_shard",
+              "spinzs_mod:electrium_furnace",
+              "spinzs_mod:electrium_collector"
+            ],
+            "count": {
+              "min": 1,
+              "max": 9999999999
+            }
+          }
+        ]
+      }
+    }
+  }
+}

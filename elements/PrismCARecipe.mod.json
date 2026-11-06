@@ -1,0 +1,28 @@
+{
+  "_fv": 85,
+  "_type": "jeirecipe",
+  "definition": {
+    "category": "component_application",
+    "ingredients": [
+      {
+        "value": "Blocks.TINTED_GLASS"
+      },
+      {
+        "value": "CUSTOM:RefractingShard"
+      },
+      {
+        "value": "CUSTOM:RefractingShard"
+      }
+    ],
+    "integers": [],
+    "strings": [],
+    "recipetype": "ComponentApplication",
+    "results": [
+      {
+        "value": "CUSTOM:Prism"
+      }
+    ],
+    "resultCounts": [],
+    "count": 0
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "spinzs_mod:electrium_dye_crushing_jei",
+  "ingredients": [
+    {
+      "tag": "c:dc_white"
+    },
+    {
+      "tag": "minecraft:dyes"
+    }
+  ],
+  "outputs": [
+    {
+      "id": "minecraft:white_dye",
+      "count": 3
+    }
+  ]
+}

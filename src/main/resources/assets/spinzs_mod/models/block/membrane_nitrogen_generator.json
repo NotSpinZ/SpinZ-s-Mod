@@ -1,0 +1,9 @@
+{
+  "parent": "spinzs_mod:custom/membrane_nitrogen_generator",
+  "textures": {
+    "all": "spinzs_mod:block/membrane_nitrogen_generator",
+    "particle": "spinzs_mod:block/membrane_nitrogen_generator",
+    "2": "spinzs_mod:block/membrane_nitrogen_generator"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "spinzs_mod:custom/silver_frame",
+  "textures": {
+    "all": "spinzs_mod:block/silver_frame",
+    "particle": "spinzs_mod:block/silver_frame",
+    "0": "spinzs_mod:block/silver_frame"
+  },
+  "render_type": "solid"
+}

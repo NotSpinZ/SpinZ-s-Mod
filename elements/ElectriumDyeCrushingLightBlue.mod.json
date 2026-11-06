@@ -1,0 +1,27 @@
+{
+  "_fv": 85,
+  "_type": "jeirecipe",
+  "definition": {
+    "category": "electrium_dye_crushing_jei",
+    "ingredients": [
+      {
+        "value": "TAG:c:dc_light_blue"
+      },
+      {
+        "value": "TAG:minecraft:dyes"
+      }
+    ],
+    "integers": [],
+    "strings": [],
+    "recipetype": "ElectriumDyeCrushingJEI",
+    "results": [
+      {
+        "value": "Items.DYE#12"
+      }
+    ],
+    "resultCounts": [
+      3
+    ],
+    "count": 0
+  }
+}

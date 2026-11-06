@@ -1,0 +1,17 @@
+{
+  "type": "spinzs_mod:electrium_dye_crushing_jei",
+  "ingredients": [
+    {
+      "tag": "c:dc_cyan"
+    },
+    {
+      "tag": "minecraft:dyes"
+    }
+  ],
+  "outputs": [
+    {
+      "id": "minecraft:cyan_dye",
+      "count": 3
+    }
+  ]
+}

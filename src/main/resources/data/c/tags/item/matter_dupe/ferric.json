@@ -1,0 +1,121 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:rail",
+    "minecraft:iron_ingot",
+    {
+      "id": "aether:iron_ring",
+      "required": false
+    },
+    "minecraft:iron_door",
+    "minecraft:heavy_weighted_pressure_plate",
+    "minecraft:anvil",
+    "minecraft:chipped_anvil",
+    {
+      "id": "mekanism:dirty_dust_iron",
+      "required": false
+    },
+    "minecraft:damaged_anvil",
+    "minecraft:iron_axe",
+    "minecraft:bucket",
+    "minecraft:iron_door",
+    "minecraft:chain",
+    "minecraft:iron_hoe",
+    {
+      "id": "twilightforest:iron_ladder",
+      "required": false
+    },
+    "minecraft:hopper_minecart",
+    {
+      "id": "supplementaries:goblet",
+      "required": false
+    },
+    {
+      "id": "aether:iron_gloves",
+      "required": false
+    },
+    "minecraft:iron_trapdoor",
+    {
+      "id": "mekanism:dust_iron",
+      "required": false
+    },
+    "minecraft:iron_block",
+    "minecraft:iron_chestplate",
+    "minecraft:detector_rail",
+    "minecraft:hopper",
+    "minecraft:flint_and_steel",
+    {
+      "id": "mekanism:crystal_iron",
+      "required": false
+    },
+    "minecraft:activator_rail",
+    "minecraft:iron_sword",
+    {
+      "id": "mekanism:shard_iron",
+      "required": false
+    },
+    "minecraft:iron_leggings",
+    {
+      "id": "supplementaries:iron_gate",
+      "required": false
+    },
+    "spinzs_mod:iron_rod",
+    "minecraft:minecart",
+    {
+      "id": "supplementaries:bubble_blower",
+      "required": false
+    },
+    "minecraft:iron_pickaxe",
+    {
+      "id": "aether:iron_pendant",
+      "required": false
+    },
+    "spinzs_mod:iron_gear",
+    "minecraft:iron_shovel",
+    "minecraft:iron_bars",
+    "minecraft:powered_rail",
+    {
+      "id": "constructionstick:iron_stick",
+      "required": false
+    },
+    {
+      "id": "twilightforest:iron_berry",
+      "required": false
+    },
+    {
+      "id": "ironfurnaces:iron_furnace",
+      "required": false
+    },
+    {
+      "id": "extended_storage:iron_chest",
+      "required": false
+    },
+    "minecraft:shears",
+    {
+      "id": "extended_storage:old_iron_chest",
+      "required": false
+    },
+    "minecraft:raw_iron",
+    "minecraft:iron_horse_armor",
+    "minecraft:cauldron",
+    "minecraft:iron_boots",
+    "minecraft:iron_helmet",
+    {
+      "id": "aether:iron_bubble",
+      "required": false
+    },
+    {
+      "id": "mekanism:enriched_iron",
+      "required": false
+    },
+    {
+      "id": "extended_storage:iron_barrel",
+      "required": false
+    },
+    {
+      "id": "mekanism:clump_iron",
+      "required": false
+    },
+    "minecraft:iron_nugget"
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "_fv": 85,
+  "_type": "jeirecipetype",
+  "definition": {
+    "textureSelector": "particle_acceleration_jei.png",
+    "width": 227,
+    "height": 87,
+    "icon": {
+      "value": "CUSTOM:ParticleAcceleratorControlPanel"
+    },
+    "craftingtables": [
+      {
+        "value": "CUSTOM:ParticleAcceleratorControlPanel"
+      },
+      {
+        "value": "CUSTOM:ParticleAcceleratorInput"
+      },
+      {
+        "value": "CUSTOM:ParticleAcceleratorOutput"
+      },
+      {
+        "value": "CUSTOM:ParticleAcceleratorReader"
+      },
+      {
+        "value": "CUSTOM:ParticleAcceleratorCoolantStorage"
+      },
+      {
+        "value": "CUSTOM:ParticleAcceleratorHeatModule"
+      },
+      {
+        "value": "CUSTOM:ParticleAcceleratorSpeedModule"
+      },
+      {
+        "value": "CUSTOM:ParticleAcceleratorElectromagneticLooperFrontLeft"
+      },
+      {
+        "value": "CUSTOM:ParticleAcceleratorElectromagneticLooperFront"
+      },
+      {
+        "value": "CUSTOM:ParticleAcceleratorElectromagneticLooperFrontRight"
+      },
+      {
+        "value": "CUSTOM:ParticleAcceleratorElectromagneticLooperRight"
+      },
+      {
+        "value": "CUSTOM:ParticleAcceleratorElectromagneticLooperBackRight"
+      },
+      {
+        "value": "CUSTOM:ParticleAcceleratorElectromagneticLooperBack"
+      },
+      {
+        "value": "CUSTOM:ParticleAcceleratorElectromagneticLooperBackLeft"
+      },
+      {
+        "value": "CUSTOM:ParticleAcceleratorElectromagneticLooperLeft"
+      }
+    ],
+    "enableCraftingtable": true,
+    "enableIntList": false,
+    "enableStringList": true,
+    "disableJeiBorder": true,
+    "title": "Particle Acceleration",
+    "slotList": [
+      {
+        "type": "INPUT",
+        "x": 5,
+        "y": 33,
+        "slotid": 0
+      },
+      {
+        "type": "INPUT",
+        "x": 5,
+        "y": 10,
+        "slotid": 1
+      },
+      {
+        "type": "OUTPUT",
+        "x": 205,
+        "y": 33,
+        "slotid": 0
+      }
+    ],
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "name": "label_empty",
+          "text": {
+            "fixedValue": ""
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "hasShadow": false,
+          "x": 0,
+          "y": 0,
+          "locked": false
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_heat_90degc",
+          "text": {
+            "fixedValue": "heat: 90°C"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "hasShadow": false,
+          "x": 213,
+          "y": 111,
+          "locked": false
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_speed_300_kms",
+          "text": {
+            "fixedValue": "speed: 200 km/s"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "hasShadow": false,
+          "x": 213,
+          "y": 120,
+          "locked": false
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}

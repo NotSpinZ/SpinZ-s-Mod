@@ -1,0 +1,53 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "mekanism:block_osmium",
+      "required": false
+    },
+    "minecraft:rail",
+    {
+      "id": "mekanism:shard_osmium",
+      "required": false
+    },
+    {
+      "id": "mekanism:dirty_dust_osmium",
+      "required": false
+    },
+    {
+      "id": "mekanism:gauge_dropper",
+      "required": false
+    },
+    {
+      "id": "mekanism:dust_osmium",
+      "required": false
+    },
+    {
+      "id": "mekanism:ingot_osmium",
+      "required": false
+    },
+    {
+      "id": "mekanism:nugget_osmium",
+      "required": false
+    },
+    "minecraft:detector_rail",
+    "minecraft:powered_rail",
+    {
+      "id": "mekanism:crystal_osmium",
+      "required": false
+    },
+    "minecraft:activator_rail",
+    {
+      "id": "mekanism:raw_osmium",
+      "required": false
+    },
+    {
+      "id": "mekanism:basic_control_circuit",
+      "required": false
+    },
+    {
+      "id": "mekanism:clump_osmium",
+      "required": false
+    }
+  ]
+}

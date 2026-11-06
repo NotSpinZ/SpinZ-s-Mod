@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "supplimentaries:charcoal_block",
+      "required": false
+    },
+    "minecraft:coal_block"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "experience": 0.3,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "spinzs_mod:raw_silver"
+  },
+  "result": {
+    "id": "spinzs_mod:silver_ingot"
+  }
+}

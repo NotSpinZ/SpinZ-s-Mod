@@ -1,0 +1,17 @@
+{
+  "type": "spinzs_mod:charring_jei",
+  "ingredients": [
+    {
+      "tag": "spinzs_mod:charring_stations"
+    },
+    {
+      "tag": "minecraft:logs"
+    }
+  ],
+  "outputs": [
+    {
+      "id": "minecraft:basalt",
+      "count": 1
+    }
+  ]
+}

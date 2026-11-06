@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "spinzs_mod:block/hydrogenator"
+    },
+    "facing=east": {
+      "model": "spinzs_mod:block/hydrogenator",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "spinzs_mod:block/hydrogenator",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "spinzs_mod:block/hydrogenator",
+      "y": 270
+    }
+  }
+}

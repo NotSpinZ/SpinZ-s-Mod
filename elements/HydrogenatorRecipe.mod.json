@@ -1,0 +1,65 @@
+{
+  "_fv": 85,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "unlockingItems": [
+      {
+        "value": "Blocks.IRON_BLOCK"
+      },
+      {
+        "value": "CUSTOM:SimpleElectriumPump"
+      },
+      {
+        "value": "CUSTOM:SimpleElectriumBoard"
+      },
+      {
+        "value": "CUSTOM:IronGear"
+      },
+      {
+        "value": "CUSTOM:SimpleElectriumWire"
+      }
+    ],
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Blocks.GLASS"
+      },
+      {
+        "value": "CUSTOM:SimpleElectriumWire"
+      },
+      {
+        "value": "CUSTOM:IronGear"
+      },
+      {
+        "value": "CUSTOM:SimpleElectriumPump"
+      },
+      {
+        "value": "CUSTOM:Flask"
+      },
+      {
+        "value": "CUSTOM:SimpleElectriumBoard"
+      },
+      {
+        "value": "Items.IRON_INGOT"
+      },
+      {
+        "value": "Blocks.IRON_BLOCK"
+      },
+      {
+        "value": "Items.IRON_INGOT"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Hydrogenator"
+    },
+    "name": "hydrogenator_recipe",
+    "namespace": "mod"
+  }
+}

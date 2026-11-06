@@ -1,0 +1,39 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "abc",
+    "def",
+    "ghg"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:glass"
+    },
+    "b": {
+      "item": "spinzs_mod:simple_electrium_wire"
+    },
+    "c": {
+      "item": "spinzs_mod:iron_gear"
+    },
+    "d": {
+      "item": "spinzs_mod:simple_electrium_pump"
+    },
+    "e": {
+      "item": "spinzs_mod:flask"
+    },
+    "f": {
+      "item": "spinzs_mod:simple_electrium_board"
+    },
+    "g": {
+      "item": "minecraft:iron_ingot"
+    },
+    "h": {
+      "item": "minecraft:iron_block"
+    }
+  },
+  "result": {
+    "id": "spinzs_mod:hydrogenator",
+    "count": 1
+  }
+}

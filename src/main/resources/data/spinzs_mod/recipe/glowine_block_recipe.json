@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "spinzs_mod:glowine"
+    }
+  },
+  "result": {
+    "id": "spinzs_mod:glowine_block",
+    "count": 1
+  }
+}

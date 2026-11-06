@@ -1,0 +1,62 @@
+{
+  "_fv": 85,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 4,
+    "group": "",
+    "unlockingItems": [
+      {
+        "value": "CUSTOM:WarningStripedTestingTile"
+      },
+      {
+        "value": "CUSTOM:MetalTestingTile"
+      },
+      {
+        "value": "CUSTOM:TestingTile"
+      },
+      {
+        "value": "Blocks.STONE#0"
+      }
+    ],
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:WarningStripedTestingTile"
+      },
+      {
+        "value": "CUSTOM:WarningStripedTestingTile"
+      },
+      {
+        "value": "CUSTOM:WarningStripedTestingTile"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:WarningStripedTestingTile"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:TJunctionWarningStripedTestingTile"
+    },
+    "name": "tjwstt_recipe",
+    "namespace": "mod"
+  }
+}

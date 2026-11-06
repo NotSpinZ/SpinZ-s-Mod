@@ -1,0 +1,14 @@
+{
+  "_fv": 85,
+  "_type": "jeiinformation",
+  "definition": {
+    "items": [
+      {
+        "value": "CUSTOM:ShadiumFragment"
+      }
+    ],
+    "information": [
+      "Dropped by Shadium Ore and makes Shadium Ingots when combined with Netherite."
+    ]
+  }
+}

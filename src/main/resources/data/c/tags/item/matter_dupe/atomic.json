@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "mekanism:alloy_atomic",
+      "required": false
+    },
+    {
+      "id": "evolvedmekanism:block_alloy_atomic",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "type": "spinzs_mod:electrium_smelting_jei",
+  "ingredients": [
+    {
+      "item": "minecraft:quartz_block"
+    },
+    {
+      "tag": "spinzs_mod:carbon_block"
+    },
+    {
+      "item": "spinzs_mod:copper_coil"
+    }
+  ],
+  "integers": [
+    1,
+    1,
+    1
+  ],
+  "outputs": [
+    {
+      "id": "spinzs_mod:silicon_block",
+      "count": 1
+    },
+    {
+      "id": "spinzs_mod:paramelaconite",
+      "count": 1
+    }
+  ]
+}

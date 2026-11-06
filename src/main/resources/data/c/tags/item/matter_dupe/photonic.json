@@ -1,0 +1,25 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:glow_berries",
+    {
+      "id": "mekanism:block_refined_glowstone",
+      "required": false
+    },
+    "spinzs_mod:glowine_block",
+    "minecraft:glow_ink_sac",
+    "minecraft:glowstone_dust",
+    "spinzs_mod:glowine",
+    {
+      "id": "mekanism:ingot_refined_glowstone",
+      "required": false
+    },
+    "minecraft:glow_lichen",
+    {
+      "id": "mekanism:nugget_refined_glowstone",
+      "required": false
+    },
+    "spinzs_mod:glowing_goop",
+    "minecraft:glowstone"
+  ]
+}

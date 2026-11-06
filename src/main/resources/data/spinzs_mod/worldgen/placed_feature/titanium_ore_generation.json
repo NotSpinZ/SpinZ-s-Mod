@@ -1,0 +1,28 @@
+{
+  "feature": "spinzs_mod:titanium_ore_generation",
+  "placement": [
+    {
+      "type": "minecraft:count",
+      "count": {
+        "type": "uniform",
+        "min_inclusive": 1,
+        "max_inclusive": 2
+      }
+    },
+    {
+      "type": "minecraft:in_square"
+    },
+    {
+      "type": "minecraft:height_range",
+      "height": {
+        "type": "minecraft:trapezoid",
+        "min_inclusive": {
+          "absolute": -70
+        },
+        "max_inclusive": {
+          "absolute": 35
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:dispenser",
+    "minecraft:dropper",
+    "minecraft:redstone_block",
+    "minecraft:redstone",
+    "minecraft:repeater",
+    "minecraft:observer",
+    {
+      "id": "evolvedmekanism:nugget_refined_redstone",
+      "required": false
+    },
+    "minecraft:redstone_lamp",
+    "minecraft:crafter",
+    "minecraft:repeater",
+    "minecraft:comparator",
+    {
+      "id": "evolvedmekanism:block_refined_redstone",
+      "required": false
+    },
+    {
+      "id": "evolvedmekanism:ingot_refined_redstone",
+      "required": false
+    },
+    "minecraft:piston",
+    "minecraft:detector_rail",
+    "minecraft:powered_rail",
+    "minecraft:redstone_torch",
+    {
+      "id": "mekanism:enriched_redstone",
+      "required": false
+    },
+    "minecraft:activator_rail",
+    "minecraft:sticky_piston"
+  ]
+}

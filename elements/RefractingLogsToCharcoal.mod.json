@@ -1,0 +1,31 @@
+{
+  "_fv": 85,
+  "_type": "jeirecipe",
+  "definition": {
+    "category": "refracting_jei",
+    "ingredients": [
+      {
+        "value": "CUSTOM:Refractor"
+      },
+      {
+        "value": "TAG:minecraft:logs"
+      },
+      {
+        "value": "TAG:minecraft:logs"
+      },
+      {
+        "value": "TAG:minecraft:logs"
+      }
+    ],
+    "integers": [],
+    "strings": [],
+    "recipetype": "RefractingJEI",
+    "results": [
+      {
+        "value": "Blocks.COAL_BLOCK"
+      }
+    ],
+    "resultCounts": [],
+    "count": 0
+  }
+}

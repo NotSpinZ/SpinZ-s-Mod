@@ -1,0 +1,62 @@
+{
+  "_fv": 85,
+  "_type": "jeirecipetype",
+  "definition": {
+    "textureSelector": "electrium_collector_jei.png",
+    "width": 175,
+    "height": 86,
+    "icon": {
+      "value": "CUSTOM:ElectriumCollector"
+    },
+    "craftingtables": [
+      {
+        "value": "CUSTOM:ElectriumCollector"
+      }
+    ],
+    "enableCraftingtable": true,
+    "enableIntList": false,
+    "enableStringList": true,
+    "disableJeiBorder": true,
+    "title": "Electrium Collecting",
+    "slotList": [
+      {
+        "type": "INPUT",
+        "x": 43,
+        "y": 34,
+        "slotid": 0
+      },
+      {
+        "type": "OUTPUT",
+        "x": 115,
+        "y": 34,
+        "slotid": 0
+      }
+    ],
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "name": "label_required_power_num",
+          "text": {
+            "fixedValue": "Required Power: <num>"
+          },
+          "color": {
+            "value": -13369600,
+            "falpha": 0.0
+          },
+          "hasShadow": false,
+          "x": 161,
+          "y": 118,
+          "locked": false
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}

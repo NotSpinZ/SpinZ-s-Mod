@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "spinzs_mod:shadium_block",
+    "spinzs_mod:refined_shadium_block",
+    "spinzs_mod:refined_shadium_ingot",
+    "spinzs_mod:shadium_fragment",
+    "spinzs_mod:shadium_ingot"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "bcb",
+    " ad"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:iron_ingot"
+    },
+    "b": {
+      "item": "minecraft:gold_ingot"
+    },
+    "c": {
+      "item": "spinzs_mod:electrium_ingot"
+    },
+    "d": {
+      "item": "spinzs_mod:simple_electrium_wire"
+    }
+  },
+  "result": {
+    "id": "spinzs_mod:simple_electrium_pump",
+    "count": 1
+  }
+}

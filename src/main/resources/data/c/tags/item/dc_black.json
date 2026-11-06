@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:blackstone",
+    "minecraft:obsidian",
+    "minecraft:crying_obsidian",
+    "minecraft:coal_block",
+    "minecraft:coal",
+    "minecraft:wither_rose",
+    "minecraft:charcoal",
+    "minecraft:ink_sac"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "aca",
+    "def"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:iron_block"
+    },
+    "b": {
+      "item": "spinzs_mod:titanium_plating"
+    },
+    "c": {
+      "item": "minecraft:glass"
+    },
+    "d": {
+      "item": "spinzs_mod:complex_electrium_board"
+    },
+    "e": {
+      "item": "spinzs_mod:block_of_titanium"
+    },
+    "f": {
+      "item": "spinzs_mod:iron_gear"
+    }
+  },
+  "result": {
+    "id": "spinzs_mod:dewar",
+    "count": 1
+  }
+}

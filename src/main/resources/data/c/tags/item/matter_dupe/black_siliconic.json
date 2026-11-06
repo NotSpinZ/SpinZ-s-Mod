@@ -1,0 +1,88 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "aether:obsidian_chestplate",
+      "required": false
+    },
+    {
+      "id": "aether:obsidian_helmet",
+      "required": false
+    },
+    {
+      "id": "aether:obsidian_gloves",
+      "required": false
+    },
+    {
+      "id": "cataclysm:polished_obsidian_slab",
+      "required": false
+    },
+    "minecraft:obsidian",
+    {
+      "id": "cataclysm:obsidian_fence",
+      "required": false
+    },
+    {
+      "id": "cataclysm:obsidian_bricks",
+      "required": false
+    },
+    {
+      "id": "cataclysm:polished_obsidian_wall",
+      "required": false
+    },
+    {
+      "id": "aether:obsidian_boots",
+      "required": false
+    },
+    {
+      "id": "twilightforest:giant_obsidian",
+      "required": false
+    },
+    {
+      "id": "cataclysm:obsidian_brick_slab",
+      "required": false
+    },
+    {
+      "id": "aether:obsidian_leggings",
+      "required": false
+    },
+    {
+      "id": "cataclysm:obsidian_pillar",
+      "required": false
+    },
+    {
+      "id": "cataclysm:polished_obsidian",
+      "required": false
+    },
+    {
+      "id": "cataclysm:obsidian_explosion_trap_bricks",
+      "required": false
+    },
+    {
+      "id": "cataclysm:polished_obsidian_stairs",
+      "required": false
+    },
+    {
+      "id": "cataclysm:obsidian_brick_stairs",
+      "required": false
+    },
+    "minecraft:crying_obsidian",
+    {
+      "id": "ironfurnaces:obsidian_furnace",
+      "required": false
+    },
+    {
+      "id": "cataclysm:obsidian_brick_wall",
+      "required": false
+    },
+    {
+      "id": "mekanism:dust_obsidian",
+      "required": false
+    },
+    "minecraft:respawn_anchor",
+    {
+      "id": "cataclysm:chiseled_obsidian_bricks",
+      "required": false
+    }
+  ]
+}

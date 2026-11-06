@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "aaa",
+    "aba",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "spinzs_mod:testing_tile"
+    },
+    "b": {
+      "item": "spinzs_mod:titanium_ingot"
+    }
+  },
+  "result": {
+    "id": "spinzs_mod:metal_testing_tile",
+    "count": 8
+  }
+}

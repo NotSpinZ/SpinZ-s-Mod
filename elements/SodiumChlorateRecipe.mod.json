@@ -1,0 +1,25 @@
+{
+  "_fv": 85,
+  "_type": "jeirecipe",
+  "definition": {
+    "category": "electrolysis_jei",
+    "ingredients": [
+      {
+        "value": "CUSTOM:SaltWaterBottle"
+      },
+      {
+        "value": "Blocks.AIR"
+      }
+    ],
+    "integers": [],
+    "strings": [],
+    "recipetype": "ElectrolysisJEI",
+    "results": [
+      {
+        "value": "CUSTOM:SodiumChlorate"
+      }
+    ],
+    "resultCounts": [],
+    "count": 0
+  }
+}

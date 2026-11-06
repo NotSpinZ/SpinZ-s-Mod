@@ -1,0 +1,20 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "spinzs_mod:item/electrium_wrench"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "spinzs_mod:electrium_wrench_toggle": 0
+      },
+      "model": "spinzs_mod:item/electrium_wrench_0"
+    },
+    {
+      "predicate": {
+        "spinzs_mod:electrium_wrench_toggle": 1
+      },
+      "model": "spinzs_mod:item/electrium_wrench_1"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:twisting_vines",
+    "minecraft:soul_lantern",
+    "minecraft:wind_charge",
+    "minecraft:warped_roots",
+    "minecraft:soul_campfire",
+    "minecraft:nether_sprouts",
+    "minecraft:breeze_rod",
+    "minecraft:soul_torch"
+  ]
+}

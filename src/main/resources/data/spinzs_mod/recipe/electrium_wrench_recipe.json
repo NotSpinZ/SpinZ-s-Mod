@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    " c ",
+    " d "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:iron_nugget"
+    },
+    "b": {
+      "item": "spinzs_mod:electrium_ingot"
+    },
+    "c": {
+      "item": "spinzs_mod:iron_rod"
+    },
+    "d": {
+      "item": "spinzs_mod:silver_ingot"
+    }
+  },
+  "result": {
+    "id": "spinzs_mod:electrium_wrench",
+    "count": 1
+  }
+}

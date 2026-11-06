@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "aba",
+    "ccc"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:yellow_dye"
+    },
+    "b": {
+      "item": "minecraft:black_dye"
+    },
+    "c": {
+      "item": "spinzs_mod:metal_testing_tile"
+    }
+  },
+  "result": {
+    "id": "spinzs_mod:warning_striped_testing_tile",
+    "count": 4
+  }
+}

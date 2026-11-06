@@ -1,0 +1,34 @@
+package net.spinz.spinzsmod.procedures;
+
+import net.neoforged.neoforge.fluids.capability.IFluidHandler;
+import net.neoforged.neoforge.fluids.FluidStack;
+import net.neoforged.neoforge.common.extensions.ILevelExtension;
+import net.neoforged.neoforge.capabilities.Capabilities;
+
+import net.minecraft.world.level.LevelAccessor;
+import net.minecraft.core.BlockPos;
+
+import java.util.Optional;
+
+public class DewarGUIVisibleHeightProcedureProcedure {
+	public static double execute(LevelAccessor world, double x, double y, double z) {
+		double fluid = 0;
+		fluid = new Object() {
+			FluidStack getFluidFromTank(final int tank, final BlockPos pos) {
+				return Optional.ofNullable(getIFluidHandler(world, pos)).map(f -> f.getFluidInTank(tank).copy()).orElse(FluidStack.EMPTY);
+			}
+		}.getFluidFromTank((int) 0, BlockPos.containing(x, y, z)).getAmount() + new Object() {
+			FluidStack getFluidFromTank(final int tank, final BlockPos pos) {
+				return Optional.ofNullable(getIFluidHandler(world, pos)).map(f -> f.getFluidInTank(tank).copy()).orElse(FluidStack.EMPTY);
+			}
+		}.getFluidFromTank((int) 0, BlockPos.containing(x, (y + 1), z)).getAmount();
+		return Math.ceil((fluid / 20000) * 59);
+	}
+
+	private static IFluidHandler getIFluidHandler(LevelAccessor world, BlockPos pos) {
+		if (world instanceof ILevelExtension extension) {
+			return extension.getCapability(Capabilities.FluidHandler.BLOCK, pos, null);
+		}
+		return null;
+	}
+}

@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "spinzs_mod:electrium_cluster",
+    "spinzs_mod:electrium_ingot",
+    "spinzs_mod:electrium_shard",
+    "spinzs_mod:pure_electrium"
+  ]
+}

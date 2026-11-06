@@ -1,0 +1,24 @@
+{
+  "_fv": 85,
+  "_type": "jeirecipe",
+  "definition": {
+    "category": "electrium_crushing_jei",
+    "ingredients": [
+      {
+        "value": "Items.BONE"
+      }
+    ],
+    "integers": [],
+    "strings": [],
+    "recipetype": "ElectriumCrushingJEI",
+    "results": [
+      {
+        "value": "Items.DYE#15"
+      }
+    ],
+    "resultCounts": [
+      4
+    ],
+    "count": 0
+  }
+}

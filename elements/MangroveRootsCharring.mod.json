@@ -1,0 +1,25 @@
+{
+  "_fv": 85,
+  "_type": "jeirecipe",
+  "definition": {
+    "category": "charring_jei",
+    "ingredients": [
+      {
+        "value": "TAG:mod:charring_stations"
+      },
+      {
+        "value": "Blocks.MUDDY_MANGROVE_ROOTS"
+      }
+    ],
+    "integers": [],
+    "strings": [],
+    "recipetype": "CharringJEI",
+    "results": [
+      {
+        "value": "Blocks.MANGROVE_ROOTS"
+      }
+    ],
+    "resultCounts": [],
+    "count": 0
+  }
+}

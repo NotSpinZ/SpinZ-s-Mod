@@ -1,0 +1,38 @@
+{
+  "_fv": 85,
+  "_type": "jeirecipe",
+  "definition": {
+    "category": "electrium_smelting_jei",
+    "ingredients": [
+      {
+        "value": "Items.COPPER_INGOT"
+      },
+      {
+        "value": "Blocks.AIR"
+      },
+      {
+        "value": "CUSTOM:CopperCoil"
+      }
+    ],
+    "integers": [
+      1,
+      0,
+      1
+    ],
+    "strings": [],
+    "recipetype": "ElectriumSmeltingJEI",
+    "results": [
+      {
+        "value": "CUSTOM:Paramelaconite"
+      },
+      {
+        "value": "CUSTOM:Paramelaconite"
+      }
+    ],
+    "resultCounts": [
+      1,
+      1
+    ],
+    "count": 0
+  }
+}

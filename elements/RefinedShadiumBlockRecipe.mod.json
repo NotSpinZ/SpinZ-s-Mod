@@ -1,0 +1,53 @@
+{
+  "_fv": 85,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "unlockingItems": [
+      {
+        "value": "CUSTOM:RefinedShadiumIngot"
+      }
+    ],
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:RefinedShadiumIngot"
+      },
+      {
+        "value": "CUSTOM:RefinedShadiumIngot"
+      },
+      {
+        "value": "CUSTOM:RefinedShadiumIngot"
+      },
+      {
+        "value": "CUSTOM:RefinedShadiumIngot"
+      },
+      {
+        "value": "CUSTOM:RefinedShadiumIngot"
+      },
+      {
+        "value": "CUSTOM:RefinedShadiumIngot"
+      },
+      {
+        "value": "CUSTOM:RefinedShadiumIngot"
+      },
+      {
+        "value": "CUSTOM:RefinedShadiumIngot"
+      },
+      {
+        "value": "CUSTOM:RefinedShadiumIngot"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:RefinedShadiumBlock"
+    },
+    "name": "refined_shadium_block_recipe",
+    "namespace": "mod"
+  }
+}

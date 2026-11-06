@@ -1,0 +1,17 @@
+{
+  "type": "spinzs_mod:charring_jei",
+  "ingredients": [
+    {
+      "tag": "spinzs_mod:charring_stations"
+    },
+    {
+      "item": "minecraft:muddy_mangrove_roots"
+    }
+  ],
+  "outputs": [
+    {
+      "id": "minecraft:mangrove_roots",
+      "count": 1
+    }
+  ]
+}

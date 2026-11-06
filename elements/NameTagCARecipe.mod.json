@@ -1,0 +1,28 @@
+{
+  "_fv": 85,
+  "_type": "jeirecipe",
+  "definition": {
+    "category": "component_application",
+    "ingredients": [
+      {
+        "value": "Items.PAPER"
+      },
+      {
+        "value": "Items.STRING"
+      },
+      {
+        "value": "Blocks.AIR"
+      }
+    ],
+    "integers": [],
+    "strings": [],
+    "recipetype": "ComponentApplication",
+    "results": [
+      {
+        "value": "Items.NAME_TAG"
+      }
+    ],
+    "resultCounts": [],
+    "count": 0
+  }
+}

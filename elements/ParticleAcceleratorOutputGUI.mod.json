@@ -1,0 +1,203 @@
+{
+  "_fv": 85,
+  "_type": "gui",
+  "definition": {
+    "type": 1,
+    "width": 176,
+    "height": 136,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": -15,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "name": "label_accelerator_output",
+          "text": {
+            "fixedValue": "Accelerator Output"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "hasShadow": false,
+          "x": 132,
+          "y": 57,
+          "locked": false
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_inventory",
+          "text": {
+            "fixedValue": "Inventory"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "hasShadow": false,
+          "x": 132,
+          "y": 94,
+          "locked": false
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_dark_matter_10mb",
+          "text": {
+            "fixedValue": "Dark Matter: 10mB",
+            "name": "ReturnPAOutputFluidTextGUI"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "hasShadow": false,
+          "x": 199,
+          "y": 76,
+          "locked": false
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 0,
+          "disablePickup": {
+            "fixedValue": false
+          },
+          "dropItemsWhenNotBound": true,
+          "x": 168,
+          "y": 71,
+          "locked": false
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "vile_outline.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "CAGUIIconShow"
+          },
+          "x": 169,
+          "y": 72,
+          "locked": false
+        }
+      },
+      {
+        "type": "enhanced_image_button",
+        "data": {
+          "image": "8x8_x.png",
+          "hoveredImage": "8x8_button_hover.png",
+          "pressedImage": "",
+          "textColor": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "textShadow": true,
+          "fontScale": 100,
+          "normalImageProcedure": {
+            "name": "AutoExportButtonImage"
+          },
+          "togglePressedTexture": true,
+          "name": "enhanced_image_button_advancement_bg_2",
+          "text": "",
+          "isUndecorated": true,
+          "onClick": {
+            "name": "AutoExportButtonFlip"
+          },
+          "width": 8,
+          "height": 8,
+          "x": 288,
+          "y": 57,
+          "locked": false
+        }
+      },
+      {
+        "type": "multiline_label",
+        "data": {
+          "name": "multiline_label_autoexport",
+          "text": "Auto-export",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "hasShadow": false,
+          "fontScale": 50,
+          "width": 120,
+          "height": 40,
+          "x": 256,
+          "y": 59,
+          "locked": false
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 1,
+          "disablePickup": {
+            "fixedValue": true
+          },
+          "dropItemsWhenNotBound": false,
+          "x": 282,
+          "y": 33,
+          "locked": false
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_empty",
+          "text": "",
+          "isUndecorated": true,
+          "onClick": {
+            "name": "AutoExportChangeDir"
+          },
+          "displayCondition": {
+            "name": "AutoExportButtonDisplay"
+          },
+          "width": 20,
+          "height": 20,
+          "x": 281,
+          "y": 32,
+          "locked": false
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_proc_auto_export_dir_text",
+          "text": {
+            "fixedValue": "",
+            "name": "AutoExportDirText"
+          },
+          "color": {
+            "value": -15461356,
+            "falpha": 0.0
+          },
+          "hasShadow": true,
+          "displayCondition": {
+            "name": "AutoExportButtonDisplay"
+          },
+          "x": 282,
+          "y": 25,
+          "locked": false
+        }
+      }
+    ],
+    "onTick": {
+      "name": "ParticleAcceleratorOutputGUIWhileThisGUIIsOpenTick"
+    },
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}

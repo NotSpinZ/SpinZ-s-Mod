@@ -1,0 +1,15 @@
+{
+  "_fv": 85,
+  "_type": "jeiinformation",
+  "definition": {
+    "items": [
+      {
+        "value": "CUSTOM:Refractor"
+      }
+    ],
+    "information": [
+      "Used to induct a large amount of light through things to refract them. Turns Shadium to Refined Shadium and is powered by a Redstone Block on the back and a Glowine Block on top that is consumed on use.",
+      "Refracts only the three blocks in front of it and it's charring explosion can be prevented by covering the sides and bottom with a high-resistance block like obsidian or Strong Titanium Blocks."
+    ]
+  }
+}

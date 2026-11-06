@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "spinzs_mod:block/electrium_crusher"
+    },
+    "facing=east": {
+      "model": "spinzs_mod:block/electrium_crusher",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "spinzs_mod:block/electrium_crusher",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "spinzs_mod:block/electrium_crusher",
+      "y": 270
+    }
+  }
+}

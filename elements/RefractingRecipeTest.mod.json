@@ -1,0 +1,31 @@
+{
+  "_fv": 85,
+  "_type": "jeirecipe",
+  "definition": {
+    "category": "refracting_jei",
+    "ingredients": [
+      {
+        "value": "CUSTOM:Refractor"
+      },
+      {
+        "value": "CUSTOM:ShadiumBlock"
+      },
+      {
+        "value": "CUSTOM:ShadiumBlock"
+      },
+      {
+        "value": "CUSTOM:ShadiumBlock"
+      }
+    ],
+    "integers": [],
+    "strings": [],
+    "recipetype": "RefractingJEI",
+    "results": [
+      {
+        "value": "CUSTOM:RefinedShadiumIngot"
+      }
+    ],
+    "resultCounts": [],
+    "count": 0
+  }
+}

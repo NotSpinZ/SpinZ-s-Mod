@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "spinzs_mod:block/membrane_nitrogen_generator"
+    },
+    "facing=east": {
+      "model": "spinzs_mod:block/membrane_nitrogen_generator",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "spinzs_mod:block/membrane_nitrogen_generator",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "spinzs_mod:block/membrane_nitrogen_generator",
+      "y": 270
+    }
+  }
+}

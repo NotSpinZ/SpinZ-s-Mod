@@ -1,0 +1,9 @@
+{
+  "parent": "spinzs_mod:custom/hydrogenator",
+  "textures": {
+    "all": "spinzs_mod:block/hydrogenator",
+    "particle": "spinzs_mod:block/hydrogenator",
+    "0": "spinzs_mod:block/hydrogenator"
+  },
+  "render_type": "cutout"
+}

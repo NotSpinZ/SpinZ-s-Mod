@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "spinzs_mod:block/component_applier"
+    },
+    "facing=east": {
+      "model": "spinzs_mod:block/component_applier",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "spinzs_mod:block/component_applier",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "spinzs_mod:block/component_applier",
+      "y": 270
+    }
+  }
+}

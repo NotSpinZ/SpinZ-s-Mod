@@ -1,0 +1,24 @@
+{
+  "_fv": 85,
+  "_type": "jeirecipe",
+  "definition": {
+    "category": "electrium_crushing_jei",
+    "ingredients": [
+      {
+        "value": "CUSTOM:RawTitaniumBlock"
+      }
+    ],
+    "integers": [],
+    "strings": [],
+    "recipetype": "ElectriumCrushingJEI",
+    "results": [
+      {
+        "value": "CUSTOM:TitaniumDust"
+      }
+    ],
+    "resultCounts": [
+      12
+    ],
+    "count": 0
+  }
+}

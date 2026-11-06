@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    " b ",
+    "cdc"
+  ],
+  "key": {
+    "a": {
+      "item": "spinzs_mod:electrium_crusher"
+    },
+    "b": {
+      "item": "minecraft:water_bucket"
+    },
+    "c": {
+      "item": "spinzs_mod:silver_ingot"
+    },
+    "d": {
+      "item": "minecraft:cauldron"
+    }
+  },
+  "result": {
+    "id": "spinzs_mod:electrium_dye_crusher",
+    "count": 1
+  }
+}

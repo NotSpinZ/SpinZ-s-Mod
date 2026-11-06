@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:diorite",
+    "minecraft:andesite",
+    "minecraft:stone",
+    "minecraft:polished_basalt",
+    "minecraft:granite",
+    "minecraft:bedrock",
+    "minecraft:infested_stone_bricks",
+    "minecraft:infested_stone",
+    "minecraft:smooth_basalt",
+    "minecraft:basalt",
+    "minecraft:chiseled_stone_bricks",
+    "minecraft:cracked_stone_bricks",
+    "minecraft:infested_chiseled_stone_bricks",
+    "minecraft:mossy_stone_bricks",
+    "minecraft:stone_bricks",
+    "minecraft:infested_cracked_stone_bricks"
+  ]
+}

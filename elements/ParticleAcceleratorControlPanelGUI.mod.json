@@ -1,0 +1,205 @@
+{
+  "_fv": 85,
+  "_type": "gui",
+  "definition": {
+    "type": 1,
+    "width": 227,
+    "height": 166,
+    "inventoryOffsetX": -28,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "slider",
+        "data": {
+          "name": "speed",
+          "min": 0.0,
+          "max": 299.0,
+          "value": 0.0,
+          "step": 0.02,
+          "prefix": "Speed: ",
+          "suffix": "km/s",
+          "width": 75,
+          "height": 20,
+          "x": 105,
+          "y": 89,
+          "locked": false
+        }
+      },
+      {
+        "type": "slider",
+        "data": {
+          "name": "heat",
+          "min": -200.0,
+          "max": 200.0,
+          "value": 90.0,
+          "step": 0.1,
+          "prefix": "Heat: ",
+          "suffix": "°C",
+          "width": 80,
+          "height": 20,
+          "x": 105,
+          "y": 62,
+          "locked": false
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 0,
+          "disablePickup": {
+            "fixedValue": true
+          },
+          "dropItemsWhenNotBound": false,
+          "x": 285,
+          "y": 161,
+          "locked": false
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_particle",
+          "text": {
+            "fixedValue": "Particle"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "hasShadow": false,
+          "x": 277,
+          "y": 181,
+          "locked": false
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 1,
+          "disablePickup": {
+            "fixedValue": true
+          },
+          "dropItemsWhenNotBound": false,
+          "x": 285,
+          "y": 125,
+          "locked": false
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_control_panel",
+          "text": {
+            "fixedValue": "Control Panel"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "hasShadow": false,
+          "x": 106,
+          "y": 44,
+          "locked": false
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_viles",
+          "text": {
+            "fixedValue": "Viles"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "hasShadow": false,
+          "x": 283,
+          "y": 147,
+          "locked": false
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_coolant_1000_mb",
+          "text": {
+            "fixedValue": "Coolant: {numberc} mB",
+            "name": "ReturnCoolantTextPA"
+          },
+          "color": {
+            "value": -6684673,
+            "falpha": 0.0
+          },
+          "hasShadow": false,
+          "x": 216,
+          "y": 45,
+          "locked": false
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_start",
+          "text": "Start",
+          "isUndecorated": false,
+          "onClick": {
+            "name": "PAControlPanelStartButton"
+          },
+          "width": 36,
+          "height": 20,
+          "x": 213,
+          "y": 89,
+          "locked": false
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "nitrogen_display_noanim.png",
+          "use1Xscale": false,
+          "x": 202,
+          "y": 43,
+          "locked": false
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "large_electrium_display_empty.png",
+          "use1Xscale": true,
+          "x": 277,
+          "y": 82,
+          "locked": false
+        }
+      },
+      {
+        "type": "dynamic_image",
+        "data": {
+          "name": "dynamic_image_0",
+          "image": "large_electrium_display.png",
+          "visibleWidthProcedure": {
+            "name": "ParticleAcceleratorControlPanelGUIVisibleWidthProcedure"
+          },
+          "width": 32,
+          "height": 32,
+          "x": 277,
+          "y": 82,
+          "locked": false
+        }
+      }
+    ],
+    "onTick": {
+      "name": "ParticleAcceleratorControlPanelGUIWhileThisGUIIsOpenTick"
+    },
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}

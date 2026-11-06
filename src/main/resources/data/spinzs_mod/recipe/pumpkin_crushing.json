@@ -1,0 +1,14 @@
+{
+  "type": "spinzs_mod:electrium_crushing_jei",
+  "ingredients": [
+    {
+      "item": "minecraft:pumpkin"
+    }
+  ],
+  "outputs": [
+    {
+      "id": "minecraft:pumpkin_seeds",
+      "count": 18
+    }
+  ]
+}

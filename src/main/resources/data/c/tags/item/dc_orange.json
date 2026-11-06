@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:orange_tulip",
+    "minecraft:magma_block",
+    "minecraft:pumpkin",
+    "minecraft:wet_sponge",
+    "minecraft:sponge",
+    "minecraft:carrot",
+    "minecraft:carved_pumpkin",
+    "minecraft:copper_ingot",
+    "minecraft:copper_block",
+    "minecraft:jack_o_lantern",
+    "minecraft:pumpkin_pie",
+    "minecraft:torchflower"
+  ]
+}

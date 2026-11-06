@@ -1,0 +1,38 @@
+{
+  "display": {
+    "icon": {
+      "id": "spinzs_mod:iron_gear"
+    },
+    "title": {
+      "translate": "advancements.grinds_my.title"
+    },
+    "description": {
+      "translate": "advancements.grinds_my.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "grinds_my_1": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "spinzs_mod:iron_gear",
+              "spinzs_mod:gold_gear",
+              "spinzs_mod:diamond_gear"
+            ],
+            "count": {
+              "min": 1,
+              "max": 9999999999999
+            }
+          }
+        ]
+      }
+    }
+  },
+  "parent": "spinzs_mod:scientific_revolution"
+}

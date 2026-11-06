@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "spinzs_mod:raw_silver",
+    "spinzs_mod:silver_dust",
+    "spinzs_mod:silver_frame",
+    "spinzs_mod:raw_silver_block",
+    "spinzs_mod:silver_nugget",
+    "spinzs_mod:silver_ingot",
+    "spinzs_mod:silver_block",
+    "spinzs_mod:silver_plate"
+  ]
+}

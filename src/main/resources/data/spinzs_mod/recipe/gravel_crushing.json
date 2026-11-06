@@ -1,0 +1,14 @@
+{
+  "type": "spinzs_mod:electrium_crushing_jei",
+  "ingredients": [
+    {
+      "item": "minecraft:gravel"
+    }
+  ],
+  "outputs": [
+    {
+      "id": "minecraft:flint",
+      "count": 2
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "spinzs_mod:blocks/pink_striped_testing_concrete",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "spinzs_mod:pink_striped_testing_concrete"
+        }
+      ]
+    }
+  ]
+}

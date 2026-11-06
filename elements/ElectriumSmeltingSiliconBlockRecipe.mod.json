@@ -1,0 +1,38 @@
+{
+  "_fv": 85,
+  "_type": "jeirecipe",
+  "definition": {
+    "category": "electrium_smelting_jei",
+    "ingredients": [
+      {
+        "value": "Blocks.QUARTZ_BLOCK#3"
+      },
+      {
+        "value": "TAG:mod:carbon_block"
+      },
+      {
+        "value": "CUSTOM:CopperCoil"
+      }
+    ],
+    "integers": [
+      1,
+      1,
+      1
+    ],
+    "strings": [],
+    "recipetype": "ElectriumSmeltingJEI",
+    "results": [
+      {
+        "value": "CUSTOM:SiliconBlock"
+      },
+      {
+        "value": "CUSTOM:Paramelaconite"
+      }
+    ],
+    "resultCounts": [
+      1,
+      1
+    ],
+    "count": 0
+  }
+}

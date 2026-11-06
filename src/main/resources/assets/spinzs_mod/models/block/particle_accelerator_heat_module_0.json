@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "spinzs_mod:block/reinforced_titanium_block",
+    "up": "spinzs_mod:block/reinforced_titanium_block",
+    "north": "spinzs_mod:block/particle_accelerator_heat_module_tl",
+    "east": "spinzs_mod:block/particle_accelerator_heat_module_trf",
+    "south": "spinzs_mod:block/particle_accelerator_heat_module_tb",
+    "west": "spinzs_mod:block/particle_accelerator_heat_module_trf",
+    "particle": "spinzs_mod:block/particle_accelerator_heat_module"
+  },
+  "render_type": "cutout_mipped"
+}

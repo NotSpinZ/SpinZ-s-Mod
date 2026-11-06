@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    " a "
+  ],
+  "key": {
+    "a": {
+      "item": "spinzs_mod:warning_striped_testing_tile"
+    }
+  },
+  "result": {
+    "id": "spinzs_mod:t_junction_warning_striped_testing_tile",
+    "count": 4
+  }
+}

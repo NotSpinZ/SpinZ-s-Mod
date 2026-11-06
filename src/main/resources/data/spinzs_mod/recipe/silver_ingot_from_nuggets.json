@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "spinzs_mod:silver_nugget"
+    }
+  },
+  "result": {
+    "id": "spinzs_mod:silver_ingot",
+    "count": 1
+  }
+}

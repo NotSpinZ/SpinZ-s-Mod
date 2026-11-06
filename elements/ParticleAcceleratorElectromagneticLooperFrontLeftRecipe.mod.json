@@ -1,0 +1,53 @@
+{
+  "_fv": 85,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "unlockingItems": [
+      {
+        "value": "CUSTOM:ReinforcedTitaniumBlock"
+      }
+    ],
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "BUILDING",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:ReinforcedTitaniumBlock"
+      },
+      {
+        "value": "CUSTOM:ComplexElectriumWire"
+      },
+      {
+        "value": "CUSTOM:Enderrubber"
+      },
+      {
+        "value": "CUSTOM:ComplexElectriumBoard"
+      },
+      {
+        "value": "CUSTOM:ElectromagneticCoil"
+      },
+      {
+        "value": "CUSTOM:ElectriumIngot"
+      },
+      {
+        "value": "CUSTOM:Enderrubber"
+      },
+      {
+        "value": "CUSTOM:ElectriumIngot"
+      },
+      {
+        "value": "CUSTOM:ElectriumIngot"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:ParticleAcceleratorElectromagneticLooperFrontLeft"
+    },
+    "name": "particle_accelerator_electromagnetic_looper_front_left_recipe",
+    "namespace": "mod"
+  }
+}

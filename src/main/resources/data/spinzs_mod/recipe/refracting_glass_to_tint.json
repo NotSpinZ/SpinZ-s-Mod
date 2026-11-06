@@ -1,0 +1,23 @@
+{
+  "type": "spinzs_mod:refracting_jei",
+  "ingredients": [
+    {
+      "item": "spinzs_mod:refractor"
+    },
+    {
+      "item": "minecraft:glass"
+    },
+    {
+      "item": "minecraft:glass"
+    },
+    {
+      "item": "minecraft:glass"
+    }
+  ],
+  "outputs": [
+    {
+      "id": "minecraft:tinted_glass",
+      "count": 1
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "aba",
+    "bcb",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:diamond"
+    },
+    "b": {
+      "item": "minecraft:netherite_scrap"
+    },
+    "c": {
+      "item": "spinzs_mod:block_of_titanium"
+    }
+  },
+  "result": {
+    "id": "spinzs_mod:reinforced_titanium_block",
+    "count": 1
+  }
+}

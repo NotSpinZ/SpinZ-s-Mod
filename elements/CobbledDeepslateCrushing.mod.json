@@ -1,0 +1,24 @@
+{
+  "_fv": 85,
+  "_type": "jeirecipe",
+  "definition": {
+    "category": "electrium_crushing_jei",
+    "ingredients": [
+      {
+        "value": "TAG:mod:crush_to_cobbled_deepslate"
+      }
+    ],
+    "integers": [],
+    "strings": [],
+    "recipetype": "ElectriumCrushingJEI",
+    "results": [
+      {
+        "value": "Blocks.COBBLED_DEEPSLATE"
+      }
+    ],
+    "resultCounts": [
+      1
+    ],
+    "count": 0
+  }
+}

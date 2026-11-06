@@ -1,0 +1,70 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:trial_spawner",
+    {
+      "id": "mekanism:creative_chemical_tank",
+      "required": false
+    },
+    "minecraft:chain_command_block",
+    {
+      "id": "mekanism:creative_energy_cube",
+      "required": false
+    },
+    "minecraft:spawner",
+    {
+      "id": "ae2omnicells:creative_ae_cell_long",
+      "required": false
+    },
+    {
+      "id": "ae2omnicells:creative_ae_cell_biginteger",
+      "required": false
+    },
+    {
+      "id": "evolvedmekanism:alloy_creative",
+      "required": false
+    },
+    "minecraft:structure_void",
+    "minecraft:command_block_minecart",
+    "minecraft:barrier",
+    {
+      "id": "evolvedmekanism:creative_control_circuit",
+      "required": false
+    },
+    {
+      "id": "evolvedmekanism:creative_induction_cell",
+      "required": false
+    },
+    "minecraft:structure_block",
+    "minecraft:repeating_command_block",
+    {
+      "id": "evolvedmekanism:creative_induction_provider",
+      "required": false
+    },
+    "minecraft:light",
+    "minecraft:command_block",
+    "minecraft:debug_stick",
+    {
+      "id": "ae2:creative_energy_cell",
+      "required": false
+    },
+    {
+      "id": "ae2:creative_storage_cell",
+      "required": false
+    },
+    "minecraft:vault",
+    {
+      "id": "mekanism:creative_bin",
+      "required": false
+    },
+    {
+      "id": "mekanism:creative_fluid_tank",
+      "required": false
+    },
+    {
+      "id": "evolvedmekanism:block_alloy_creative",
+      "required": false
+    },
+    "minecraft:jigsaw"
+  ]
+}

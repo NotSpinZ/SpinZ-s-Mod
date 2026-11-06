@@ -1,0 +1,17 @@
+{
+  "type": "spinzs_mod:electrolysis_jei",
+  "ingredients": [
+    {
+      "item": "minecraft:water_bucket"
+    },
+    {
+      "item": "spinzs_mod:vile"
+    }
+  ],
+  "outputs": [
+    {
+      "id": "spinzs_mod:hydrogen_vile",
+      "count": 1
+    }
+  ]
+}

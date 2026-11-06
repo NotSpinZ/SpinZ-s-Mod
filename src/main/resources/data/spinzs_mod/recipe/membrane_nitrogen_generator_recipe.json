@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "bcb",
+    " d "
+  ],
+  "key": {
+    "a": {
+      "item": "spinzs_mod:simple_electrium_pump"
+    },
+    "b": {
+      "item": "minecraft:iron_block"
+    },
+    "c": {
+      "item": "spinzs_mod:enderrubber_membrane"
+    },
+    "d": {
+      "item": "spinzs_mod:titanium_ingot"
+    }
+  },
+  "result": {
+    "id": "spinzs_mod:membrane_nitrogen_generator",
+    "count": 1
+  }
+}

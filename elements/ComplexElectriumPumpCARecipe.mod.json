@@ -1,0 +1,28 @@
+{
+  "_fv": 85,
+  "_type": "jeirecipe",
+  "definition": {
+    "category": "component_application",
+    "ingredients": [
+      {
+        "value": "CUSTOM:SimpleElectriumPump"
+      },
+      {
+        "value": "CUSTOM:ElectriumShard"
+      },
+      {
+        "value": "Items.COPPER_INGOT"
+      }
+    ],
+    "integers": [],
+    "strings": [],
+    "recipetype": "ComponentApplication",
+    "results": [
+      {
+        "value": "CUSTOM:ComplexElectriumPump"
+      }
+    ],
+    "resultCounts": [],
+    "count": 0
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "_fv": 85,
+  "_type": "fluid",
+  "definition": {
+    "name": "Dark Matter",
+    "bucketName": "Dark Matter Bucket",
+    "textureStill": "dark_matter_fluid",
+    "textureFlowing": "dark_matter_fluid",
+    "textureRenderOverlay": "",
+    "hasFog": false,
+    "fogStartDistance": {
+      "fixedValue": 0.0
+    },
+    "fogEndDistance": {
+      "fixedValue": 48.0
+    },
+    "tintType": "No tint",
+    "canMultiply": false,
+    "flowRate": 150,
+    "levelDecrease": 4,
+    "slopeFindDistance": 1,
+    "spawnParticles": false,
+    "dripParticle": {
+      "value": "CUSTOM:PopperBoom"
+    },
+    "flowStrength": 0.02,
+    "luminosity": 0,
+    "density": -50000,
+    "viscosity": 15000,
+    "temperature": 5000,
+    "type": "WATER",
+    "generateBucket": false,
+    "textureBucket": "",
+    "creativeTabs": [],
+    "emptySound": {
+      "value": ""
+    },
+    "rarity": "COMMON",
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "resistance": 100.0,
+    "luminance": 0,
+    "lightOpacity": 15,
+    "emissiveRendering": false,
+    "tickRate": 0,
+    "ignitedByLava": false,
+    "flammability": 0,
+    "fireSpreadSpeed": 0,
+    "colorOnMap": "DEFAULT",
+    "onBlockAdded": {
+      "name": "NitrogenBlockAdded"
+    },
+    "onNeighbourChanges": {
+      "name": "NitrogenBlockAdded"
+    },
+    "onTickUpdate": {
+      "name": "NitrogenBlockAdded"
+    },
+    "onEntityCollides": {
+      "name": "NitrogenBlockAdded"
+    },
+    "onRandomUpdateEvent": {
+      "name": "NitrogenBlockAdded"
+    },
+    "onDestroyedByExplosion": {
+      "name": "NitrogenBlockAdded"
+    }
+  }
+}

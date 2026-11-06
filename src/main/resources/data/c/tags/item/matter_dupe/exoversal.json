@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "evolvedmekanism:alloy_exoversal",
+      "required": false
+    },
+    {
+      "id": "evolvedmekanism:block_alloy_exoversal",
+      "required": false
+    }
+  ]
+}

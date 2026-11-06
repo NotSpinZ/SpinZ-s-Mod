@@ -1,0 +1,53 @@
+{
+  "_fv": 85,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "unlockingItems": [
+      {
+        "value": "CUSTOM:ShadiumFragment"
+      }
+    ],
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:ShadiumFragment"
+      },
+      {
+        "value": "CUSTOM:ShadiumFragment"
+      },
+      {
+        "value": "CUSTOM:ShadiumFragment"
+      },
+      {
+        "value": "CUSTOM:ShadiumFragment"
+      },
+      {
+        "value": "Items.NETHERITE_INGOT"
+      },
+      {
+        "value": "CUSTOM:ShadiumFragment"
+      },
+      {
+        "value": "CUSTOM:ShadiumFragment"
+      },
+      {
+        "value": "CUSTOM:ShadiumFragment"
+      },
+      {
+        "value": "CUSTOM:ShadiumFragment"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:ShadiumIngot"
+    },
+    "name": "shadium_ingot_recipe",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:diamond_shovel",
+    {
+      "id": "mekanism:enriched_diamond",
+      "required": false
+    },
+    "minecraft:diamond",
+    {
+      "id": "mekanism:dust_diamond",
+      "required": false
+    },
+    {
+      "id": "constructionstick:diamond_stick",
+      "required": false
+    },
+    {
+      "id": "ironfurnaces:diamond_furnace",
+      "required": false
+    },
+    {
+      "id": "twilight_forest:diamond_minotaur_axe",
+      "required": false
+    },
+    "minecraft:diamond_hoe",
+    "spinzs_mod:diamond_gear",
+    "minecraft:diamond_block",
+    "minecraft:diamond_helmet",
+    {
+      "id": "extended_storage:diamond_chest",
+      "required": false
+    },
+    {
+      "id": "aether:diamond_gloves",
+      "required": false
+    },
+    {
+      "id": "extended_storage:old_diamond_chest",
+      "required": false
+    },
+    "minecraft:diamond_horse_armor",
+    "spinzs_mod:diamond_rod",
+    "minecraft:diamond_leggings",
+    "minecraft:diamond_sword",
+    "minecraft:diamond_boots",
+    {
+      "id": "random_discs:diamond_disc_base",
+      "required": false
+    },
+    "minecraft:diamond_axe",
+    {
+      "id": "extended_storage:diamond_barrel",
+      "required": false
+    },
+    "minecraft:diamond_pickaxe",
+    "minecraft:diamond_chestplate"
+  ]
+}

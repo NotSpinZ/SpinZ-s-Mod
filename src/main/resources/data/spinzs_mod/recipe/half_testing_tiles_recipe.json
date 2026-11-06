@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "aa",
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "spinzs_mod:testing_tile"
+    }
+  },
+  "result": {
+    "id": "spinzs_mod:half_testing_tiles",
+    "count": 4
+  }
+}

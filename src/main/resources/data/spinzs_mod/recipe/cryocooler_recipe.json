@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "bcd",
+    "efg"
+  ],
+  "key": {
+    "a": {
+      "item": "spinzs_mod:gold_gear"
+    },
+    "b": {
+      "item": "spinzs_mod:simple_electrium_wire"
+    },
+    "c": {
+      "item": "minecraft:iron_block"
+    },
+    "d": {
+      "item": "spinzs_mod:titanium_ingot"
+    },
+    "e": {
+      "item": "minecraft:copper_ingot"
+    },
+    "f": {
+      "item": "minecraft:iron_ingot"
+    },
+    "g": {
+      "item": "spinzs_mod:simple_electrium_pump"
+    }
+  },
+  "result": {
+    "id": "spinzs_mod:cryocooler",
+    "count": 1
+  }
+}

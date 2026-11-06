@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "abc",
+    "ded"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:iron_ingot"
+    },
+    "b": {
+      "item": "spinzs_mod:simple_electrium_wire"
+    },
+    "c": {
+      "item": "minecraft:iron_bars"
+    },
+    "d": {
+      "item": "minecraft:stone_bricks"
+    },
+    "e": {
+      "item": "spinzs_mod:electrium_ingot"
+    }
+  },
+  "result": {
+    "id": "spinzs_mod:electrium_collector",
+    "count": 1
+  }
+}

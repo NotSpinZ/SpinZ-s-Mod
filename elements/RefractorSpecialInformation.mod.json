@@ -1,0 +1,8 @@
+{
+  "_fv": 85,
+  "_type": "procedure",
+  "definition": {
+    "procedurexml": "<xml xmlns=\"https://developers.google.com/blockly/xml\"><block type=\"event_trigger\" deletable=\"false\" x=\"40\" y=\"40\"><field name=\"trigger\">no_ext_trigger</field><next><block type=\"controls_if\"><value name=\"IF0\"><block type=\"is_key_pressed\"><field name=\"key\">Shift</field></block></value><statement name=\"DO0\"><block type=\"return_string\"><value name=\"return\"><block type=\"text\"><field name=\"TEXT\">§7The hyper-focused laser produced by this machine combined with a radioactive material produces enough heat to flash boil all humans in a radius of 50 blocks in less than a nanosecond. Power from the back with a §cRedstone Block§7 and put a §eGlowine Block§7 above it and right-click to power.</field></block></value></block></statement><next><block type=\"return_string\"><value name=\"return\"><block type=\"text\"><field name=\"TEXT\">§8Press Shift for more info</field></block></value></block></next></block></next></block></xml>",
+    "skipDependencyNullCheck": false
+  }
+}

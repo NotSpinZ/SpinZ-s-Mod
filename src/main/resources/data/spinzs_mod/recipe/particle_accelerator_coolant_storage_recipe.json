@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "aba",
+    "cdc",
+    "ebe"
+  ],
+  "key": {
+    "a": {
+      "item": "spinzs_mod:diamond_rod"
+    },
+    "b": {
+      "item": "spinzs_mod:complex_electrium_pump"
+    },
+    "c": {
+      "item": "spinzs_mod:complex_electrium_wire"
+    },
+    "d": {
+      "item": "spinzs_mod:reinforced_titanium_block"
+    },
+    "e": {
+      "item": "spinzs_mod:diamond_gear"
+    }
+  },
+  "result": {
+    "id": "spinzs_mod:particle_accelerator_coolant_storage",
+    "count": 1
+  }
+}

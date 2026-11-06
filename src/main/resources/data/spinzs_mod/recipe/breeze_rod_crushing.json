@@ -1,0 +1,14 @@
+{
+  "type": "spinzs_mod:electrium_crushing_jei",
+  "ingredients": [
+    {
+      "item": "minecraft:breeze_rod"
+    }
+  ],
+  "outputs": [
+    {
+      "id": "minecraft:wind_charge",
+      "count": 6
+    }
+  ]
+}

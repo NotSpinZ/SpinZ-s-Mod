@@ -1,0 +1,9 @@
+{
+  "parent": "spinzs_mod:custom/electrium_crusher",
+  "textures": {
+    "all": "spinzs_mod:block/electrium_crusher",
+    "particle": "spinzs_mod:block/electrium_crusher",
+    "0": "spinzs_mod:block/electrium_crusher"
+  },
+  "render_type": "solid"
+}

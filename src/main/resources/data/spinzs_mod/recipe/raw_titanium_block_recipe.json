@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "spinzs_mod:raw_titanium"
+    }
+  },
+  "result": {
+    "id": "spinzs_mod:raw_titanium_block",
+    "count": 1
+  }
+}

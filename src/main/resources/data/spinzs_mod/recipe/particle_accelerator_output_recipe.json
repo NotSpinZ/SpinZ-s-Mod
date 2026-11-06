@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "aba",
+    "bcd",
+    "ebe"
+  ],
+  "key": {
+    "a": {
+      "item": "spinzs_mod:complex_electrium_board"
+    },
+    "b": {
+      "item": "spinzs_mod:titanium_ingot"
+    },
+    "c": {
+      "item": "spinzs_mod:reinforced_titanium_block"
+    },
+    "d": {
+      "item": "minecraft:netherite_scrap"
+    },
+    "e": {
+      "item": "minecraft:dropper"
+    }
+  },
+  "result": {
+    "id": "spinzs_mod:particle_accelerator_output",
+    "count": 1
+  }
+}

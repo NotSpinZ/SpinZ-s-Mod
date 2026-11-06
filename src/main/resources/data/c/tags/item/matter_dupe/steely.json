@@ -1,0 +1,25 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "mekanism:nugget_steel",
+      "required": false
+    },
+    {
+      "id": "mekanism:steel_casing",
+      "required": false
+    },
+    {
+      "id": "mekanism:dust_steel",
+      "required": false
+    },
+    {
+      "id": "mekanism:block_steel",
+      "required": false
+    },
+    {
+      "id": "mekanism:ingot_steel",
+      "required": false
+    }
+  ]
+}

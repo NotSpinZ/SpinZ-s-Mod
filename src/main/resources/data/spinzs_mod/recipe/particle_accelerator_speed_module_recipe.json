@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "abc",
+    "ded",
+    "fef"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:stone_button"
+    },
+    "b": {
+      "item": "spinzs_mod:complex_electrium_board"
+    },
+    "c": {
+      "item": "spinzs_mod:complex_electrium_pump"
+    },
+    "d": {
+      "item": "spinzs_mod:titanium_ingot"
+    },
+    "e": {
+      "item": "spinzs_mod:reinforced_titanium_block"
+    },
+    "f": {
+      "item": "minecraft:chain"
+    }
+  },
+  "result": {
+    "id": "spinzs_mod:particle_accelerator_speed_module",
+    "count": 1
+  }
+}

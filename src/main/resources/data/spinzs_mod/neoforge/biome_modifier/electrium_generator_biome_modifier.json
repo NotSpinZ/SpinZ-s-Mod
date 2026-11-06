@@ -1,0 +1,6 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "deep_dark",
+  "features": "spinzs_mod:electrium_generator",
+  "step": "underground_decoration"
+}

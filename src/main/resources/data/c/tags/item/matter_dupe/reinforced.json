@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "mekanism:alloy_reinforced",
+      "required": false
+    },
+    {
+      "id": "evolvedmekanism:block_alloy_reinforced",
+      "required": false
+    }
+  ]
+}

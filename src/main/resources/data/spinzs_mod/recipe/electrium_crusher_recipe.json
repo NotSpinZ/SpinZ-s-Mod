@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "abc",
+    " d ",
+    "ded"
+  ],
+  "key": {
+    "a": {
+      "item": "spinzs_mod:simple_electrium_wire"
+    },
+    "b": {
+      "item": "spinzs_mod:silver_frame"
+    },
+    "c": {
+      "item": "spinzs_mod:gold_gear"
+    },
+    "d": {
+      "item": "spinzs_mod:titanium_ingot"
+    },
+    "e": {
+      "item": "spinzs_mod:silver_ingot"
+    }
+  },
+  "result": {
+    "id": "spinzs_mod:electrium_crusher",
+    "count": 1
+  }
+}

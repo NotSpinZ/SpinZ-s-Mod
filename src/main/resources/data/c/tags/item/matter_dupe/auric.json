@@ -1,0 +1,133 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:golden_helmet",
+    {
+      "id": "twilightforest:gold_minotaur_axe",
+      "required": false
+    },
+    {
+      "id": "evolvedmekanism:block_better_gold",
+      "required": false
+    },
+    "minecraft:raw_gold",
+    {
+      "id": "extended_storage:old_golden_chest",
+      "required": false
+    },
+    "spinzs_mod:gold_rod",
+    {
+      "id": "supplementaries:gold_door",
+      "required": false
+    },
+    {
+      "id": "mekanism:shard_gold",
+      "required": false
+    },
+    {
+      "id": "mekanism:dirty_dust_gold",
+      "required": false
+    },
+    {
+      "id": "random_discs:gold_disc_base",
+      "required": false
+    },
+    {
+      "id": "aether:golden_gummy_swet",
+      "required": false
+    },
+    "minecraft:raw_gold_block",
+    "minecraft:golden_sword",
+    "minecraft:golden_shovel",
+    "minecraft:golden_hoe",
+    {
+      "id": "mekanism:dust_gold",
+      "required": false
+    },
+    {
+      "id": "extended_storage:golden_chest",
+      "required": false
+    },
+    "minecraft:gold_block",
+    {
+      "id": "mekanism:crystal_gold",
+      "required": false
+    },
+    {
+      "id": "evolvedmekanism:ingot_better_gold",
+      "required": false
+    },
+    {
+      "id": "aether:golden_swet_ball",
+      "required": false
+    },
+    "minecraft:enchanted_golden_apple",
+    {
+      "id": "mekanism:enriched_gold",
+      "required": false
+    },
+    {
+      "id": "evolvedmekanism:enriched_better_gold",
+      "required": false
+    },
+    {
+      "id": "extended_storage:golden_barrel",
+      "required": false
+    },
+    {
+      "id": "evolvedmekanism:nugget_better_gold",
+      "required": false
+    },
+    "minecraft:gold_ingot",
+    "minecraft:golden_axe",
+    "minecraft:golden_leggings",
+    {
+      "id": "mekanism:clump_gold",
+      "required": false
+    },
+    {
+      "id": "evolvedmekanism:dust_better_gold",
+      "required": false
+    },
+    "minecraft:gold_nugget",
+    "minecraft:golden_apple",
+    {
+      "id": "aether:golden_gloves",
+      "required": false
+    },
+    {
+      "id": "supplementaries:gold_trapdoor",
+      "required": false
+    },
+    "spinzs_mod:gold_gear",
+    "minecraft:golden_pickaxe",
+    {
+      "id": "ironfurnaces:gold_furnace",
+      "required": false
+    },
+    "minecraft:golden_horse_armor",
+    {
+      "id": "twilightforest:gold_berry",
+      "required": false
+    },
+    "minecraft:golden_carrot",
+    "minecraft:golden_chestplate",
+    {
+      "id": "supplementaries:gold_bars",
+      "required": false
+    },
+    {
+      "id": "aether:golden_pendant",
+      "required": false
+    },
+    {
+      "id": "supplementaries:gold_gate",
+      "required": false
+    },
+    {
+      "id": "aether:golden_ring",
+      "required": false
+    },
+    "minecraft:golden_boots"
+  ]
+}

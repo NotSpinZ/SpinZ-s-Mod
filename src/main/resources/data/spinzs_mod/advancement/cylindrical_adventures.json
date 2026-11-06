@@ -1,0 +1,38 @@
+{
+  "display": {
+    "icon": {
+      "id": "spinzs_mod:iron_rod"
+    },
+    "title": {
+      "translate": "advancements.cylindrical_adventures.title"
+    },
+    "description": {
+      "translate": "advancements.cylindrical_adventures.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "cylindrical_adventures_1": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "spinzs_mod:iron_rod",
+              "spinzs_mod:gold_rod",
+              "spinzs_mod:diamond_rod"
+            ],
+            "count": {
+              "min": 1,
+              "max": 9999999999999
+            }
+          }
+        ]
+      }
+    }
+  },
+  "parent": "spinzs_mod:scientific_revolution"
+}

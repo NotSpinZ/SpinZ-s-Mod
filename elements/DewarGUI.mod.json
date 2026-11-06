@@ -1,0 +1,109 @@
+{
+  "_fv": 85,
+  "_type": "gui",
+  "definition": {
+    "type": 1,
+    "width": 176,
+    "height": 166,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "name": "label_dewar",
+          "text": {
+            "fixedValue": "Dewar"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "hasShadow": false,
+          "x": 132,
+          "y": 42,
+          "locked": false
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "fluid_slot_bg.png",
+          "use1Xscale": false,
+          "x": 206,
+          "y": 52,
+          "locked": false
+        }
+      },
+      {
+        "type": "dynamic_image",
+        "data": {
+          "name": "dynamic_image_0",
+          "image": "liquid_tank_temp.png",
+          "yOffsetProcedure": {
+            "name": "DewarGUIYOffsetProcedure"
+          },
+          "visibleHeightProcedure": {
+            "name": "DewarGUIVisibleHeightProcedure"
+          },
+          "width": 15,
+          "height": 59,
+          "x": 208,
+          "y": 53,
+          "locked": false
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "fluid_slot_front.png",
+          "use1Xscale": false,
+          "x": 207,
+          "y": 52,
+          "locked": false
+        }
+      },
+      {
+        "type": "tooltip",
+        "data": {
+          "name": "tooltip_temp_n_100mb",
+          "text": {
+            "fixedValue": "Temp 100mB",
+            "name": "FluidTankTooltipDewar"
+          },
+          "width": 17,
+          "height": 61,
+          "x": 207,
+          "y": 52,
+          "locked": false
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_inventory",
+          "text": {
+            "fixedValue": "Inventory"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "hasShadow": false,
+          "x": 132,
+          "y": 108,
+          "locked": false
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": true
+    }
+  }
+}

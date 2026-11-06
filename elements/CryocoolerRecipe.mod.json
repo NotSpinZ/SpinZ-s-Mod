@@ -1,0 +1,68 @@
+{
+  "_fv": 85,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "unlockingItems": [
+      {
+        "value": "Blocks.IRON_BLOCK"
+      },
+      {
+        "value": "CUSTOM:SimpleElectriumWire"
+      },
+      {
+        "value": "CUSTOM:GoldGear"
+      },
+      {
+        "value": "CUSTOM:SimpleElectriumPump"
+      },
+      {
+        "value": "Items.COPPER_INGOT"
+      },
+      {
+        "value": "CUSTOM:TitaniumIngot"
+      }
+    ],
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:GoldGear"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:SimpleElectriumWire"
+      },
+      {
+        "value": "Blocks.IRON_BLOCK"
+      },
+      {
+        "value": "CUSTOM:TitaniumIngot"
+      },
+      {
+        "value": "Items.COPPER_INGOT"
+      },
+      {
+        "value": "Items.IRON_INGOT"
+      },
+      {
+        "value": "CUSTOM:SimpleElectriumPump"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Cryocooler"
+    },
+    "name": "cryocooler_recipe",
+    "namespace": "mod"
+  }
+}

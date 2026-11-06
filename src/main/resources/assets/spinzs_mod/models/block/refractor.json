@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "minecraft:block/deepslate_bricks",
+    "up": "spinzs_mod:block/refractor_top",
+    "north": "spinzs_mod:block/refractor_front",
+    "east": "spinzs_mod:block/refractor_side",
+    "south": "spinzs_mod:block/refractor_back",
+    "west": "spinzs_mod:block/refractor_side",
+    "particle": "minecraft:block/deepslate_bricks"
+  },
+  "render_type": "solid"
+}

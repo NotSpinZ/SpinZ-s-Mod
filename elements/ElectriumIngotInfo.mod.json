@@ -1,0 +1,15 @@
+{
+  "_fv": 85,
+  "_type": "jeiinformation",
+  "definition": {
+    "items": [
+      {
+        "value": "CUSTOM:ElectriumIngot"
+      }
+    ],
+    "information": [
+      "The main power source of SpinZ's Mod. Used in just about every machine and can be purified and liquified to extend usage. Also is used in the components that are used in those machines. Can be collected with an Electrium Collector or by crafting with Electrium Shards found in the Deep Dark biome",
+      "Acts as 10 EP (Electrium Power) when put in machines. 10 EP = 100 FE"
+    ]
+  }
+}

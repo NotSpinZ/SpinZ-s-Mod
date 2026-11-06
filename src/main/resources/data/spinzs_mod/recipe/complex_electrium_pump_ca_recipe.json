@@ -1,0 +1,20 @@
+{
+  "type": "spinzs_mod:component_application",
+  "ingredients": [
+    {
+      "item": "spinzs_mod:simple_electrium_pump"
+    },
+    {
+      "item": "spinzs_mod:electrium_shard"
+    },
+    {
+      "item": "minecraft:copper_ingot"
+    }
+  ],
+  "outputs": [
+    {
+      "id": "spinzs_mod:complex_electrium_pump",
+      "count": 1
+    }
+  ]
+}

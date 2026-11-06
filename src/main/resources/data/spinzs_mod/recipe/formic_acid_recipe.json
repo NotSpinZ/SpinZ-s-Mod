@@ -1,0 +1,20 @@
+{
+  "type": "spinzs_mod:hydrogenation_jei",
+  "ingredients": [
+    {
+      "item": "spinzs_mod:co_2_vile"
+    },
+    {
+      "tag": "spinzs_mod:valid_hydrogenator_catalyst"
+    },
+    {
+      "item": "spinzs_mod:flask"
+    }
+  ],
+  "outputs": [
+    {
+      "id": "spinzs_mod:formic_acid_vile",
+      "count": 1
+    }
+  ]
+}

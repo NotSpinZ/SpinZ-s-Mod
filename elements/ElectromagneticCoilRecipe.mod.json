@@ -1,0 +1,28 @@
+{
+  "_fv": 85,
+  "_type": "jeirecipe",
+  "definition": {
+    "category": "component_application",
+    "ingredients": [
+      {
+        "value": "CUSTOM:RefinedShadiumIngot"
+      },
+      {
+        "value": "CUSTOM:ConductiveCoil"
+      },
+      {
+        "value": "Blocks.AIR"
+      }
+    ],
+    "integers": [],
+    "strings": [],
+    "recipetype": "ComponentApplication",
+    "results": [
+      {
+        "value": "CUSTOM:ElectromagneticCoil"
+      }
+    ],
+    "resultCounts": [],
+    "count": 0
+  }
+}

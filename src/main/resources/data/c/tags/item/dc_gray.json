@@ -1,0 +1,16 @@
+{
+  "replace": false,
+  "values": [
+    "spinzs_mod:silicon_block",
+    "minecraft:tuff",
+    "spinzs_mod:titanium_ingot",
+    "minecraft:stone",
+    "minecraft:skeleton_skull",
+    "spinzs_mod:titanium_dust",
+    "minecraft:cobblestone",
+    "minecraft:gravel",
+    "spinzs_mod:titanium_plating",
+    "spinzs_mod:titanium_nugget",
+    "spinzs_mod:silicon"
+  ]
+}

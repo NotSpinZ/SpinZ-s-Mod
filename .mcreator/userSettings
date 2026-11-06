@@ -1,0 +1,29 @@
+{
+  "workspacePanelIconSize": "TILES",
+  "workspacePanelSortType": "CREATED",
+  "workspacePanelSortAscending": true,
+  "projectBrowserState": {
+    "expandedPaths": [
+      "[, SpinZ\u0027s Mod]",
+      "[, SpinZ\u0027s Mod, Resources (Gradle)]",
+      "[, SpinZ\u0027s Mod, Resources (Gradle), C:\\Users\\Lincoln\\MCreatorWorkspaces\\spinzs_mod\\src\\main\\resources\\data]",
+      "[, SpinZ\u0027s Mod, Resources (Gradle), C:\\Users\\Lincoln\\MCreatorWorkspaces\\spinzs_mod\\src\\main\\resources\\data, C:\\Users\\Lincoln\\MCreatorWorkspaces\\spinzs_mod\\src\\main\\resources\\data\\c]",
+      "[, SpinZ\u0027s Mod, Resources (Gradle), C:\\Users\\Lincoln\\MCreatorWorkspaces\\spinzs_mod\\src\\main\\resources\\data, C:\\Users\\Lincoln\\MCreatorWorkspaces\\spinzs_mod\\src\\main\\resources\\data\\c, C:\\Users\\Lincoln\\MCreatorWorkspaces\\spinzs_mod\\src\\main\\resources\\data\\c\\tags]",
+      "[, SpinZ\u0027s Mod, Resources (Gradle), C:\\Users\\Lincoln\\MCreatorWorkspaces\\spinzs_mod\\src\\main\\resources\\data, C:\\Users\\Lincoln\\MCreatorWorkspaces\\spinzs_mod\\src\\main\\resources\\data\\c, C:\\Users\\Lincoln\\MCreatorWorkspaces\\spinzs_mod\\src\\main\\resources\\data\\c\\tags, C:\\Users\\Lincoln\\MCreatorWorkspaces\\spinzs_mod\\src\\main\\resources\\data\\c\\tags\\item]",
+      "[, SpinZ\u0027s Mod, Resources (Gradle), C:\\Users\\Lincoln\\MCreatorWorkspaces\\spinzs_mod\\src\\main\\resources\\data, C:\\Users\\Lincoln\\MCreatorWorkspaces\\spinzs_mod\\src\\main\\resources\\data\\c, C:\\Users\\Lincoln\\MCreatorWorkspaces\\spinzs_mod\\src\\main\\resources\\data\\c\\tags, C:\\Users\\Lincoln\\MCreatorWorkspaces\\spinzs_mod\\src\\main\\resources\\data\\c\\tags\\item, C:\\Users\\Lincoln\\MCreatorWorkspaces\\spinzs_mod\\src\\main\\resources\\data\\c\\tags\\item\\matter_dupe]"
+    ]
+  },
+  "leftDockState": {
+    "expandedDock": "project_browser",
+    "dockSizes": {
+      "project_browser": 280
+    }
+  },
+  "bottomDockState": {
+    "dockSizes": {
+      "console": 300,
+      "code_viewer": 362,
+      "debugger": 300
+    }
+  }
+}

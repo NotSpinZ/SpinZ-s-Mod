@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc",
+    "aea"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:amethyst_shard"
+    },
+    "b": {
+      "item": "minecraft:iron_ingot"
+    },
+    "c": {
+      "item": "spinzs_mod:titanium_ingot"
+    },
+    "d": {
+      "item": "spinzs_mod:simple_electrium_wire"
+    },
+    "e": {
+      "item": "minecraft:iron_block"
+    }
+  },
+  "result": {
+    "id": "spinzs_mod:component_applier",
+    "count": 1
+  }
+}

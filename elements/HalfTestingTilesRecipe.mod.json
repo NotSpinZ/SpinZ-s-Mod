@@ -1,0 +1,56 @@
+{
+  "_fv": 85,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 4,
+    "group": "",
+    "unlockingItems": [
+      {
+        "value": "CUSTOM:TestingTile"
+      },
+      {
+        "value": "Blocks.STONE#0"
+      }
+    ],
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "BUILDING",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:TestingTile"
+      },
+      {
+        "value": "CUSTOM:TestingTile"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:TestingTile"
+      },
+      {
+        "value": "CUSTOM:TestingTile"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:HalfTestingTiles"
+    },
+    "name": "half_testing_tiles_recipe",
+    "namespace": "mod"
+  }
+}

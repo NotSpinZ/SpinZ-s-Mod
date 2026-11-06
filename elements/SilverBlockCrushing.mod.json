@@ -1,0 +1,24 @@
+{
+  "_fv": 85,
+  "_type": "jeirecipe",
+  "definition": {
+    "category": "electrium_crushing_jei",
+    "ingredients": [
+      {
+        "value": "CUSTOM:SilverBlock"
+      }
+    ],
+    "integers": [],
+    "strings": [],
+    "recipetype": "ElectriumCrushingJEI",
+    "results": [
+      {
+        "value": "CUSTOM:SilverDust"
+      }
+    ],
+    "resultCounts": [
+      9
+    ],
+    "count": 0
+  }
+}

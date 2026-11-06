@@ -1,0 +1,14 @@
+{
+  "type": "spinzs_mod:electrium_crushing_jei",
+  "ingredients": [
+    {
+      "item": "spinzs_mod:titanium_ingot"
+    }
+  ],
+  "outputs": [
+    {
+      "id": "spinzs_mod:titanium_dust",
+      "count": 1
+    }
+  ]
+}

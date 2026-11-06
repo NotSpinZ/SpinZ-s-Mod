@@ -1,0 +1,33 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:redstone_block",
+    "minecraft:crimson_fungus",
+    "minecraft:fermented_spider_eye",
+    "minecraft:fire_coral_block",
+    "minecraft:redstone",
+    "minecraft:fire_coral",
+    "minecraft:sweet_berries",
+    "minecraft:poppy",
+    "minecraft:zombie_head",
+    "minecraft:beetroot",
+    "minecraft:player_head",
+    "minecraft:red_tulip",
+    "minecraft:melon_slice",
+    "minecraft:red_mushroom",
+    "minecraft:tnt",
+    "minecraft:weeping_vines",
+    "minecraft:fire_coral_fan",
+    "minecraft:crimson_stem",
+    "minecraft:crimson_planks",
+    "minecraft:crimson_roots",
+    "minecraft:crimson_nylium",
+    "minecraft:apple",
+    "minecraft:nether_wart",
+    "minecraft:netherrack",
+    "minecraft:spider_eye",
+    "minecraft:red_mushroom_block",
+    "minecraft:nether_wart_block",
+    "minecraft:rose_bush"
+  ]
+}

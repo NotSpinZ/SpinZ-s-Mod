@@ -1,0 +1,49 @@
+{
+  "variants": {
+    "facing=north,heatmod_half=top": {
+      "model": "spinzs_mod:block/particle_accelerator_heat_module_0"
+    },
+    "facing=north,heatmod_half=bottom": {
+      "model": "spinzs_mod:block/particle_accelerator_heat_module_1"
+    },
+    "facing=north,heatmod_half=item": {
+      "model": "spinzs_mod:block/particle_accelerator_heat_module_2"
+    },
+    "facing=east,heatmod_half=top": {
+      "model": "spinzs_mod:block/particle_accelerator_heat_module_0",
+      "y": 90
+    },
+    "facing=east,heatmod_half=bottom": {
+      "model": "spinzs_mod:block/particle_accelerator_heat_module_1",
+      "y": 90
+    },
+    "facing=east,heatmod_half=item": {
+      "model": "spinzs_mod:block/particle_accelerator_heat_module_2",
+      "y": 90
+    },
+    "facing=south,heatmod_half=top": {
+      "model": "spinzs_mod:block/particle_accelerator_heat_module_0",
+      "y": 180
+    },
+    "facing=south,heatmod_half=bottom": {
+      "model": "spinzs_mod:block/particle_accelerator_heat_module_1",
+      "y": 180
+    },
+    "facing=south,heatmod_half=item": {
+      "model": "spinzs_mod:block/particle_accelerator_heat_module_2",
+      "y": 180
+    },
+    "facing=west,heatmod_half=top": {
+      "model": "spinzs_mod:block/particle_accelerator_heat_module_0",
+      "y": 270
+    },
+    "facing=west,heatmod_half=bottom": {
+      "model": "spinzs_mod:block/particle_accelerator_heat_module_1",
+      "y": 270
+    },
+    "facing=west,heatmod_half=item": {
+      "model": "spinzs_mod:block/particle_accelerator_heat_module_2",
+      "y": 270
+    }
+  }
+}

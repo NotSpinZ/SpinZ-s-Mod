@@ -1,0 +1,31 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:lapis_lazuli",
+    {
+      "id": "mekanism:dust_lapis_lazuli",
+      "required": false
+    },
+    {
+      "id": "supplementaries:lapis_bricks",
+      "required": false
+    },
+    {
+      "id": "supplementaries:lapis_bricks_stairs",
+      "required": false
+    },
+    {
+      "id": "mekanism:block_raw_osmium",
+      "required": false
+    },
+    {
+      "id": "supplementaries:lapis_bricks_slab",
+      "required": false
+    },
+    "minecraft:lapis_block",
+    {
+      "id": "supplementaries:lapis_bricks_wall",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "spinzs_mod:refined_shadium_block"
+    }
+  },
+  "result": {
+    "id": "spinzs_mod:refined_shadium_ingot",
+    "count": 9
+  }
+}

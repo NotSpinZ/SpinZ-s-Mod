@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:diorite",
+    "spinzs_mod:raw_silver",
+    "spinzs_mod:silver_frame",
+    "minecraft:azure_bluet",
+    "spinzs_mod:iron_rod",
+    "minecraft:oxeye_daisy",
+    "spinzs_mod:raw_silver_block",
+    "minecraft:white_tulip",
+    "minecraft:iron_ingot",
+    "spinzs_mod:silver_ingot",
+    "spinzs_mod:silver_dust",
+    "spinzs_mod:iron_gear",
+    "minecraft:iron_block",
+    "spinzs_mod:silver_nugget",
+    "spinzs_mod:silver_plate",
+    "minecraft:iron_nugget"
+  ]
+}

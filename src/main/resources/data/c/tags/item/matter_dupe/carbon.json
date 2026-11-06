@@ -1,0 +1,24 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "mekanism:dust_charcoal",
+      "required": false
+    },
+    {
+      "id": "mekanism:block_charcoal",
+      "required": false
+    },
+    "minecraft:coal_block",
+    "minecraft:coal",
+    {
+      "id": "mekanism:dust_coal",
+      "required": false
+    },
+    "minecraft:charcoal",
+    {
+      "id": "mekanism:enriched_carbon",
+      "required": false
+    }
+  ]
+}

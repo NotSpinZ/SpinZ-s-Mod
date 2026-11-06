@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "spinzs_mod:block/testing_concrete_block",
+    "up": "spinzs_mod:block/testing_concrete_block",
+    "north": "spinzs_mod:block/lime_striped_testing_concrete_block",
+    "east": "spinzs_mod:block/lime_striped_testing_concrete_block",
+    "south": "spinzs_mod:block/lime_striped_testing_concrete_block",
+    "west": "spinzs_mod:block/lime_striped_testing_concrete_block",
+    "particle": "spinzs_mod:block/testing_concrete_block"
+  },
+  "render_type": "solid"
+}

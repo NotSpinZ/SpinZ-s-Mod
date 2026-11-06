@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "name": "default",
+      "map": {
+        "0": "dewar_bot",
+        "1": "dewar_top"
+      }
+    }
+  }
+}

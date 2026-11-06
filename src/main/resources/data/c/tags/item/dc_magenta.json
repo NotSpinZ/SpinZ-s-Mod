@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:bubble_coral_fan",
+    "minecraft:allium",
+    "minecraft:bubble_coral_block",
+    "minecraft:bubble_coral",
+    "minecraft:shulker_shell",
+    "minecraft:popped_chorus_fruit",
+    "minecraft:chorus_fruit"
+  ]
+}

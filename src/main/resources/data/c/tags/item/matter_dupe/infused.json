@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "mekanism:advanced_control_circuit",
+      "required": false
+    },
+    {
+      "id": "mekanism:alloy_infused",
+      "required": false
+    },
+    {
+      "id": "evolvedmekanism:block_alloy_infused",
+      "required": false
+    }
+  ]
+}

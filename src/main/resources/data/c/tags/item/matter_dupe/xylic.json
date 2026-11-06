@@ -1,0 +1,65 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "#minecraft:wooden_buttons",
+      "required": false
+    },
+    {
+      "id": "#minecraft:wooden_fences",
+      "required": false
+    },
+    {
+      "id": "#minecraft:wooden_pressure_plates",
+      "required": false
+    },
+    {
+      "id": "#minecraft:wooden_trapdoors",
+      "required": false
+    },
+    "minecraft:stick",
+    {
+      "id": "#minecraft:planks",
+      "required": false
+    },
+    "minecraft:note_block",
+    "minecraft:ladder",
+    "minecraft:armor_stand",
+    "minecraft:barrel",
+    {
+      "id": "#minecraft:wooden_slabs",
+      "required": false
+    },
+    "minecraft:chest",
+    {
+      "id": "#minecraft:wooden_doors",
+      "required": false
+    },
+    "minecraft:crafting_table",
+    {
+      "id": "#minecraft:boats",
+      "required": false
+    },
+    {
+      "id": "#minecraft:logs",
+      "required": false
+    },
+    {
+      "id": "#minecraft:signs",
+      "required": false
+    },
+    {
+      "id": "#minecraft:hanging_signs",
+      "required": false
+    },
+    "minecraft:composter",
+    {
+      "id": "#minecraft:wooden_stairs",
+      "required": false
+    },
+    {
+      "id": "#minecraft:saplings",
+      "required": false
+    }
+  ]
+}

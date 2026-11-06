@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "spinzs_mod:paramelaconite",
+    "minecraft:copper_ingot",
+    {
+      "id": "mekanism:ingot_tin",
+      "required": false
+    }
+  ]
+}

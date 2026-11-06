@@ -1,0 +1,17 @@
+{
+  "type": "spinzs_mod:electrolysis_jei",
+  "ingredients": [
+    {
+      "item": "spinzs_mod:sodium_chlorate"
+    },
+    {
+      "tag": "spinzs_mod:jei_empty_tag"
+    }
+  ],
+  "outputs": [
+    {
+      "id": "spinzs_mod:potassium_chlorate",
+      "count": 1
+    }
+  ]
+}

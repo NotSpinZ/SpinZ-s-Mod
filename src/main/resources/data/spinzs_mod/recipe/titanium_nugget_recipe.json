@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "spinzs_mod:titanium_ingot"
+    }
+  },
+  "result": {
+    "id": "spinzs_mod:titanium_nugget",
+    "count": 9
+  }
+}

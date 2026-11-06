@@ -1,0 +1,14 @@
+{
+  "type": "spinzs_mod:electrium_crushing_jei",
+  "ingredients": [
+    {
+      "item": "minecraft:brown_mushroom_block"
+    }
+  ],
+  "outputs": [
+    {
+      "id": "minecraft:brown_mushroom",
+      "count": 4
+    }
+  ]
+}

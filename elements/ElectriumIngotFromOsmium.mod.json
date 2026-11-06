@@ -1,0 +1,56 @@
+{
+  "_fv": 85,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "electrium_ingot",
+    "unlockingItems": [
+      {
+        "value": "CUSTOM:ElectriumShard"
+      },
+      {
+        "value": "Items.IRON_INGOT"
+      }
+    ],
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:ElectriumShard"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:ElectriumShard"
+      },
+      {
+        "value": "Items.IRON_INGOT"
+      },
+      {
+        "value": "CUSTOM:ElectriumShard"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:ElectriumShard"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:ElectriumIngot"
+    },
+    "name": "electrium_ingot_from_osmium",
+    "namespace": "mod"
+  }
+}

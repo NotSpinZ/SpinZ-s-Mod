@@ -1,0 +1,25 @@
+{
+  "_fv": 85,
+  "_type": "jeirecipe",
+  "definition": {
+    "category": "electrolysis_jei",
+    "ingredients": [
+      {
+        "value": "Items.WATER_BUCKET"
+      },
+      {
+        "value": "CUSTOM:Vile"
+      }
+    ],
+    "integers": [],
+    "strings": [],
+    "recipetype": "ElectrolysisJEI",
+    "results": [
+      {
+        "value": "CUSTOM:HydrogenVile"
+      }
+    ],
+    "resultCounts": [],
+    "count": 0
+  }
+}

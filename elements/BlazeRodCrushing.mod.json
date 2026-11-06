@@ -1,0 +1,24 @@
+{
+  "_fv": 85,
+  "_type": "jeirecipe",
+  "definition": {
+    "category": "electrium_crushing_jei",
+    "ingredients": [
+      {
+        "value": "Items.BLAZE_ROD"
+      }
+    ],
+    "integers": [],
+    "strings": [],
+    "recipetype": "ElectriumCrushingJEI",
+    "results": [
+      {
+        "value": "Items.BLAZE_POWDER"
+      }
+    ],
+    "resultCounts": [
+      4
+    ],
+    "count": 0
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:cornflower",
+    "minecraft:warped_stem",
+    "minecraft:lapis_lazuli",
+    "spinzs_mod:enderrubber",
+    "spinzs_mod:electrium_cluster",
+    "spinzs_mod:electrium_shard",
+    "minecraft:warped_planks",
+    "minecraft:tube_coral_fan",
+    "minecraft:warped_fungus",
+    "spinzs_mod:enderrubber_sheet",
+    "minecraft:sculk",
+    "minecraft:lapis_block",
+    "minecraft:tube_coral_block",
+    "minecraft:heart_of_the_sea",
+    "minecraft:pitcher_plant",
+    "spinzs_mod:electrium_ingot",
+    "spinzs_mod:enderrubber_goo",
+    "spinzs_mod:paramelaconite",
+    "minecraft:tube_coral",
+    "spinzs_mod:paramelaconite_block"
+  ]
+}

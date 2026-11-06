@@ -1,0 +1,17 @@
+{
+  "type": "spinzs_mod:electrolysis_jei",
+  "ingredients": [
+    {
+      "item": "spinzs_mod:salt_water_bottle"
+    },
+    {
+      "tag": "spinzs_mod:jei_empty_tag"
+    }
+  ],
+  "outputs": [
+    {
+      "id": "spinzs_mod:sodium_chlorate",
+      "count": 1
+    }
+  ]
+}

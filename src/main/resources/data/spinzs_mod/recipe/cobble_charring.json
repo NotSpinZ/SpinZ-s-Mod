@@ -1,0 +1,17 @@
+{
+  "type": "spinzs_mod:charring_jei",
+  "ingredients": [
+    {
+      "tag": "spinzs_mod:charring_stations"
+    },
+    {
+      "item": "minecraft:stone"
+    }
+  ],
+  "outputs": [
+    {
+      "id": "minecraft:cobblestone",
+      "count": 1
+    }
+  ]
+}

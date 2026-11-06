@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:infested_cobblestone",
+    "minecraft:suspicious_gravel",
+    "minecraft:mossy_cobblestone",
+    "minecraft:cobbled_deepslate",
+    "minecraft:cobblestone"
+  ]
+}

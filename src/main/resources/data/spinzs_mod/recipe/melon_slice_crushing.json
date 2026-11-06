@@ -1,0 +1,14 @@
+{
+  "type": "spinzs_mod:electrium_crushing_jei",
+  "ingredients": [
+    {
+      "item": "minecraft:melon_slice"
+    }
+  ],
+  "outputs": [
+    {
+      "id": "minecraft:melon_seeds",
+      "count": 2
+    }
+  ]
+}

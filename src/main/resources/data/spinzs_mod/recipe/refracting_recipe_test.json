@@ -1,0 +1,23 @@
+{
+  "type": "spinzs_mod:refracting_jei",
+  "ingredients": [
+    {
+      "item": "spinzs_mod:refractor"
+    },
+    {
+      "item": "spinzs_mod:shadium_block"
+    },
+    {
+      "item": "spinzs_mod:shadium_block"
+    },
+    {
+      "item": "spinzs_mod:shadium_block"
+    }
+  ],
+  "outputs": [
+    {
+      "id": "spinzs_mod:refined_shadium_ingot",
+      "count": 1
+    }
+  ]
+}

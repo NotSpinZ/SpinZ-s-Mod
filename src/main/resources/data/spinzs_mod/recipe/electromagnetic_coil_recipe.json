@@ -1,0 +1,20 @@
+{
+  "type": "spinzs_mod:component_application",
+  "ingredients": [
+    {
+      "item": "spinzs_mod:refined_shadium_ingot"
+    },
+    {
+      "item": "spinzs_mod:conductive_coil"
+    },
+    {
+      "tag": "spinzs_mod:jei_empty_tag"
+    }
+  ],
+  "outputs": [
+    {
+      "id": "spinzs_mod:electromagnetic_coil",
+      "count": 1
+    }
+  ]
+}

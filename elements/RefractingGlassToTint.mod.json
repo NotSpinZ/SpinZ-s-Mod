@@ -1,0 +1,31 @@
+{
+  "_fv": 85,
+  "_type": "jeirecipe",
+  "definition": {
+    "category": "refracting_jei",
+    "ingredients": [
+      {
+        "value": "CUSTOM:Refractor"
+      },
+      {
+        "value": "Blocks.GLASS"
+      },
+      {
+        "value": "Blocks.GLASS"
+      },
+      {
+        "value": "Blocks.GLASS"
+      }
+    ],
+    "integers": [],
+    "strings": [],
+    "recipetype": "RefractingJEI",
+    "results": [
+      {
+        "value": "Blocks.TINTED_GLASS"
+      }
+    ],
+    "resultCounts": [],
+    "count": 0
+  }
+}

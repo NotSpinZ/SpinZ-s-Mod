@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "mekanism:block_fluorite",
+      "required": false
+    },
+    {
+      "id": "mekanism:fluorite_gem",
+      "required": false
+    },
+    {
+      "id": "mekanism:dust_fluorite",
+      "required": false
+    }
+  ]
+}

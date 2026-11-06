@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "bcb",
+    "def"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:copper_ingot"
+    },
+    "b": {
+      "item": "spinzs_mod:simple_electrium_wire"
+    },
+    "c": {
+      "item": "spinzs_mod:simple_electrium_board"
+    },
+    "d": {
+      "item": "minecraft:hopper"
+    },
+    "e": {
+      "item": "minecraft:iron_block"
+    },
+    "f": {
+      "item": "spinzs_mod:simple_electrium_pump"
+    }
+  },
+  "result": {
+    "id": "spinzs_mod:electrylosis_conductor",
+    "count": 1
+  }
+}

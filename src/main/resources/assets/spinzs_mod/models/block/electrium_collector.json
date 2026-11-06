@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "minecraft:block/stone_bricks",
+    "up": "minecraft:block/iron_block",
+    "north": "spinzs_mod:block/electrium_collector_front",
+    "east": "spinzs_mod:block/electrium_collecter_side",
+    "south": "spinzs_mod:block/electrium_collecter_back",
+    "west": "spinzs_mod:block/electrium_collecter_side",
+    "particle": "minecraft:block/stone_bricks"
+  },
+  "render_type": "solid"
+}

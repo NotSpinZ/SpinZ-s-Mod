@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "spinzs_mod:block/reinforced_titanium_block",
+    "up": "spinzs_mod:block/reinforced_titanium_block",
+    "north": "spinzs_mod:block/particle_accelerator_electromagnetic_looper_inner",
+    "east": "spinzs_mod:block/particle_accelerator_input_back",
+    "south": "spinzs_mod:block/reinforced_titanium_block",
+    "west": "spinzs_mod:block/particle_accelerator_electromagnetic_looper_inner_2",
+    "particle": "spinzs_mod:block/reinforced_titanium_block"
+  },
+  "render_type": "solid"
+}

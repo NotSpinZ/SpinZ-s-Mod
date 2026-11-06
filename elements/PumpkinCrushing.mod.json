@@ -1,0 +1,24 @@
+{
+  "_fv": 85,
+  "_type": "jeirecipe",
+  "definition": {
+    "category": "electrium_crushing_jei",
+    "ingredients": [
+      {
+        "value": "Blocks.PUMPKIN"
+      }
+    ],
+    "integers": [],
+    "strings": [],
+    "recipetype": "ElectriumCrushingJEI",
+    "results": [
+      {
+        "value": "Items.PUMPKIN_SEEDS"
+      }
+    ],
+    "resultCounts": [
+      18
+    ],
+    "count": 0
+  }
+}

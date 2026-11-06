@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "aab",
+    "acd",
+    "bde"
+  ],
+  "key": {
+    "a": {
+      "item": "spinzs_mod:electrium_ingot"
+    },
+    "b": {
+      "item": "spinzs_mod:enderrubber"
+    },
+    "c": {
+      "item": "spinzs_mod:electromagnetic_coil"
+    },
+    "d": {
+      "item": "spinzs_mod:complex_electrium_wire"
+    },
+    "e": {
+      "item": "spinzs_mod:reinforced_titanium_block"
+    }
+  },
+  "result": {
+    "id": "spinzs_mod:particle_accelerator_electromagnetic_looper_back_right",
+    "count": 1
+  }
+}

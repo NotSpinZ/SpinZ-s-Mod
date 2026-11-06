@@ -1,0 +1,53 @@
+{
+  "_fv": 85,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "unlockingItems": [
+      {
+        "value": "CUSTOM:ElectriumIngot"
+      }
+    ],
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Items.COPPER_INGOT"
+      },
+      {
+        "value": "Items.COPPER_INGOT"
+      },
+      {
+        "value": "Items.COPPER_INGOT"
+      },
+      {
+        "value": "CUSTOM:SimpleElectriumWire"
+      },
+      {
+        "value": "CUSTOM:SimpleElectriumBoard"
+      },
+      {
+        "value": "CUSTOM:SimpleElectriumWire"
+      },
+      {
+        "value": "Blocks.HOPPER"
+      },
+      {
+        "value": "Blocks.IRON_BLOCK"
+      },
+      {
+        "value": "CUSTOM:SimpleElectriumPump"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:ElectrylosisConductor"
+    },
+    "name": "electrolyzer_recipe",
+    "namespace": "mod"
+  }
+}

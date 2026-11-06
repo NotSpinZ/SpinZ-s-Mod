@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc",
+    "efe"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:hopper"
+    },
+    "b": {
+      "item": "minecraft:iron_block"
+    },
+    "c": {
+      "item": "spinzs_mod:titanium_ingot"
+    },
+    "d": {
+      "item": "spinzs_mod:copper_coil"
+    },
+    "e": {
+      "item": "minecraft:flint"
+    },
+    "f": {
+      "item": "spinzs_mod:electrium_ingot"
+    }
+  },
+  "result": {
+    "id": "spinzs_mod:electrium_furnace",
+    "count": 1
+  }
+}

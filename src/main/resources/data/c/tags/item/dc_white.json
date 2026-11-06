@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:calcite",
+    "minecraft:paper",
+    "minecraft:lily_of_the_valley",
+    "minecraft:smooth_quartz",
+    "minecraft:bone",
+    "minecraft:bone_block",
+    "minecraft:feather",
+    "minecraft:quartz",
+    "minecraft:quartz_block",
+    "minecraft:string",
+    "minecraft:sugar",
+    "minecraft:bone_meal"
+  ]
+}

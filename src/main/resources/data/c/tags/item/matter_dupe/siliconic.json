@@ -1,0 +1,51 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:quartz_stairs",
+    {
+      "id": "ae2:nether_quartz_wrench",
+      "required": false
+    },
+    "minecraft:smooth_quartz",
+    "minecraft:chiseled_quartz_block",
+    "minecraft:quartz_bricks",
+    {
+      "id": "ae2:nether_quartz_hoe",
+      "required": false
+    },
+    {
+      "id": "mekanism:quartz_dust",
+      "required": false
+    },
+    {
+      "id": "ae2:nether_quartz_sword",
+      "required": false
+    },
+    "minecraft:smooth_quartz_slab",
+    {
+      "id": "ae2:nether_quartz_cutting_knife",
+      "required": false
+    },
+    {
+      "id": "ae2:nether_quartz_pickaxe",
+      "required": false
+    },
+    "minecraft:smooth_quartz_stairs",
+    "minecraft:quartz_slab",
+    {
+      "id": "ae2:nether_quartz_axe",
+      "required": false
+    },
+    "minecraft:quartz",
+    "minecraft:quartz_pillar",
+    "minecraft:quartz_block",
+    {
+      "id": "cataclysm:quartz_brick_wall",
+      "required": false
+    },
+    {
+      "id": "ae2:nether_quartz_shovel",
+      "required": false
+    }
+  ]
+}

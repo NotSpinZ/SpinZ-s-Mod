@@ -1,0 +1,14 @@
+{
+  "_fv": 85,
+  "_type": "jeiinformation",
+  "definition": {
+    "items": [
+      {
+        "value": "CUSTOM:PureElectrium"
+      }
+    ],
+    "information": [
+      "Pure Electrium is a purified form of normal Electrium Ingots and acts as 50 EP rather than the 10 that Electrium Ingots provide."
+    ]
+  }
+}

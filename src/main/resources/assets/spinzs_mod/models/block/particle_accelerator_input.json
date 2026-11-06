@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "spinzs_mod:block/particle_accelerator_inputoutput",
+    "up": "spinzs_mod:block/particle_accelerator_output_back",
+    "north": "spinzs_mod:block/particle_accelerator_input_front",
+    "east": "spinzs_mod:block/particle_accelerator_inputoutput",
+    "south": "spinzs_mod:block/particle_accelerator_input_back",
+    "west": "spinzs_mod:block/particle_accelerator_inputoutput",
+    "particle": "spinzs_mod:block/particle_accelerator_inputoutput"
+  },
+  "render_type": "solid"
+}

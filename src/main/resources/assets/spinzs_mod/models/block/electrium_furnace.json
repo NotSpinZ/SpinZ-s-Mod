@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "spinzs_mod:block/titanium_block",
+    "up": "spinzs_mod:block/electrium_furnace_t",
+    "north": "spinzs_mod:block/electrium_furnace_f",
+    "east": "spinzs_mod:block/titanium_block",
+    "south": "spinzs_mod:block/electrium_furnace_f",
+    "west": "spinzs_mod:block/titanium_block",
+    "particle": "spinzs_mod:block/titanium_block"
+  },
+  "render_type": "solid"
+}

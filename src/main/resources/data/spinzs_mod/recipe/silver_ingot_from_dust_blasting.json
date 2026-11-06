@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "experience": 0.3,
+  "cookingtime": 100,
+  "ingredient": {
+    "item": "spinzs_mod:silver_dust"
+  },
+  "result": {
+    "id": "spinzs_mod:silver_ingot"
+  }
+}

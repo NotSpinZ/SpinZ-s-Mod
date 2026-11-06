@@ -1,0 +1,68 @@
+{
+  "_fv": 85,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "unlockingItems": [
+      {
+        "value": "Blocks.IRON_BLOCK"
+      },
+      {
+        "value": "CUSTOM:BlockOfTitanium"
+      },
+      {
+        "value": "CUSTOM:ElectriumIngot"
+      },
+      {
+        "value": "CUSTOM:ComplexElectriumBoard"
+      },
+      {
+        "value": "CUSTOM:IronGear"
+      },
+      {
+        "value": "CUSTOM:TitaniumPlating"
+      }
+    ],
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Blocks.IRON_BLOCK"
+      },
+      {
+        "value": "CUSTOM:TitaniumPlating"
+      },
+      {
+        "value": "Blocks.IRON_BLOCK"
+      },
+      {
+        "value": "Blocks.IRON_BLOCK"
+      },
+      {
+        "value": "Blocks.GLASS"
+      },
+      {
+        "value": "Blocks.IRON_BLOCK"
+      },
+      {
+        "value": "CUSTOM:ComplexElectriumBoard"
+      },
+      {
+        "value": "CUSTOM:BlockOfTitanium"
+      },
+      {
+        "value": "CUSTOM:IronGear"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Dewar"
+    },
+    "name": "dewar_recipe",
+    "namespace": "mod"
+  }
+}

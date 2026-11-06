@@ -1,0 +1,24 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:budding_amethyst",
+    "minecraft:small_amethyst_bud",
+    "minecraft:amethyst_cluster",
+    {
+      "id": "cataclysm:amethyst_crab_meat",
+      "required": false
+    },
+    {
+      "id": "cataclysm:blessed_amethyst_crab_meat",
+      "required": false
+    },
+    "minecraft:amethyst_block",
+    "minecraft:large_amethyst_bud",
+    {
+      "id": "cataclysm:amethyst_crab_shell",
+      "required": false
+    },
+    "minecraft:medium_amethyst_bud",
+    "minecraft:amethyst_shard"
+  ]
+}

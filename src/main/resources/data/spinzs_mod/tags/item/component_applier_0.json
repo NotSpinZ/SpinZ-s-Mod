@@ -1,0 +1,29 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:paper",
+    {
+      "id": "#spinzs_mod:electrium_boards",
+      "required": false
+    },
+    "minecraft:netherite_ingot",
+    "spinzs_mod:refined_shadium_ingot",
+    "minecraft:iron_ingot",
+    {
+      "id": "#spinzs_mod:electrium_wires",
+      "required": false
+    },
+    {
+      "id": "#spinzs_mod:pumps",
+      "required": false
+    },
+    {
+      "id": "#spinzs_mod:rods",
+      "required": false
+    },
+    {
+      "id": "#spinzs_mod:gears",
+      "required": false
+    }
+  ]
+}

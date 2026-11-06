@@ -1,0 +1,14 @@
+{
+  "type": "spinzs_mod:electrium_crushing_jei",
+  "ingredients": [
+    {
+      "item": "minecraft:prismarine"
+    }
+  ],
+  "outputs": [
+    {
+      "id": "minecraft:prismarine_shard",
+      "count": 4
+    }
+  ]
+}

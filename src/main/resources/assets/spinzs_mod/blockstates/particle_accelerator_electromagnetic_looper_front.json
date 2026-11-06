@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "spinzs_mod:block/particle_accelerator_electromagnetic_looper_front"
+    },
+    "facing=east": {
+      "model": "spinzs_mod:block/particle_accelerator_electromagnetic_looper_front",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "spinzs_mod:block/particle_accelerator_electromagnetic_looper_front",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "spinzs_mod:block/particle_accelerator_electromagnetic_looper_front",
+      "y": 270
+    }
+  }
+}

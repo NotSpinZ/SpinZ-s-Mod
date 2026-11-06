@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "#c:ores/titanium",
+      "required": false
+    },
+    {
+      "id": "#c:ores/shadium",
+      "required": false
+    },
+    {
+      "id": "#c:ores/silver",
+      "required": false
+    }
+  ]
+}

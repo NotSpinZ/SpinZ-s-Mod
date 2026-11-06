@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "aaa",
+    "aba",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "tag": "spinzs_mod:concrete"
+    },
+    "b": {
+      "item": "minecraft:cyan_dye"
+    }
+  },
+  "result": {
+    "id": "spinzs_mod:cyan_striped_testing_concrete",
+    "count": 8
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "bbb"
+  ],
+  "key": {
+    "a": {
+      "item": "spinzs_mod:formic_acid_vile"
+    },
+    "b": {
+      "item": "spinzs_mod:enderrubber_goo"
+    }
+  },
+  "result": {
+    "id": "spinzs_mod:enderrubber_sheet",
+    "count": 2
+  }
+}

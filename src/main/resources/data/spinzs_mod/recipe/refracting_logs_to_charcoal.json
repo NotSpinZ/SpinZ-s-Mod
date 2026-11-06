@@ -1,0 +1,23 @@
+{
+  "type": "spinzs_mod:refracting_jei",
+  "ingredients": [
+    {
+      "item": "spinzs_mod:refractor"
+    },
+    {
+      "tag": "minecraft:logs"
+    },
+    {
+      "tag": "minecraft:logs"
+    },
+    {
+      "tag": "minecraft:logs"
+    }
+  ],
+  "outputs": [
+    {
+      "id": "minecraft:coal_block",
+      "count": 1
+    }
+  ]
+}

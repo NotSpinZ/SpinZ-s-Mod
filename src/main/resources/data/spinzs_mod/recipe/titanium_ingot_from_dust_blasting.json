@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "experience": 1.5,
+  "cookingtime": 100,
+  "ingredient": {
+    "item": "spinzs_mod:titanium_dust"
+  },
+  "result": {
+    "id": "spinzs_mod:titanium_ingot"
+  }
+}

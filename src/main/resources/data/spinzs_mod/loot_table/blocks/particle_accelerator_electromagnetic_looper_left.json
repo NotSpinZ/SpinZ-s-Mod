@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "spinzs_mod:blocks/particle_accelerator_electromagnetic_looper_left",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "spinzs_mod:particle_accelerator_electromagnetic_looper_left"
+        }
+      ]
+    }
+  ]
+}

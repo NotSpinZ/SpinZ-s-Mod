@@ -1,0 +1,34 @@
+{
+  "display": {
+    "icon": {
+      "id": "spinzs_mod:electrylosis_conductor"
+    },
+    "title": {
+      "translate": "advancements.frankensteiner.title"
+    },
+    "description": {
+      "translate": "advancements.frankensteiner.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "frankensteiner_0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "spinzs_mod:electrylosis_conductor",
+            "count": {
+              "min": 1,
+              "max": 99999999
+            }
+          }
+        ]
+      }
+    }
+  },
+  "parent": "spinzs_mod:wir_did_he_come_from"
+}

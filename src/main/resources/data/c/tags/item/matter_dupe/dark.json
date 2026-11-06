@@ -1,0 +1,62 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "aether:netherite_gloves",
+      "required": false
+    },
+    {
+      "id": "constructionstick:netherite_stick",
+      "required": false
+    },
+    {
+      "id": "supplimentaries:netherite_door",
+      "required": false
+    },
+    {
+      "id": "mekanism:dirty_netherite_scrap",
+      "required": false
+    },
+    "minecraft:netherite_axe",
+    "minecraft:netherite_helmet",
+    {
+      "id": "extended_storage:netherite_chest",
+      "required": false
+    },
+    "minecraft:netherite_sword",
+    "minecraft:netherite_chestplate",
+    {
+      "id": "supplimentaries:netherite_trapdoor",
+      "required": false
+    },
+    {
+      "id": "ae2omnicells:netherite_scrap_block",
+      "required": false
+    },
+    "minecraft:netherite_block",
+    "minecraft:netherite_shovel",
+    "minecraft:netherite_boots",
+    {
+      "id": "mekanism:dust_netherite",
+      "required": false
+    },
+    "minecraft:netherite_pickaxe",
+    {
+      "id": "ironfurnaces:netherite_furnace",
+      "required": false
+    },
+    "minecraft:netherite_ingot",
+    "minecraft:netherite_scrap",
+    "minecraft:netherite_hoe",
+    "minecraft:ancient_debris",
+    {
+      "id": "extended_storage:netherite_barrel",
+      "required": false
+    },
+    {
+      "id": "extended_storage:old_netherite_chest",
+      "required": false
+    },
+    "minecraft:netherite_leggings"
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "blocks.refractor.charge": {
+    "subtitle": "subtitles.blocks.refractor.charge",
+    "sounds": [
+      {
+        "name": "spinzs_mod:charge",
+        "stream": false
+      }
+    ]
+  },
+  "spinzs_mod.blocks.hydrogenator.pressure_release": {
+    "subtitle": "subtitles.spinzs_mod.blocks.hydrogenator.pressure_release",
+    "sounds": [
+      {
+        "name": "spinzs_mod:pressure_release",
+        "stream": false
+      }
+    ]
+  },
+  "spinzs_mod.misc.electrium_shock": {
+    "subtitle": "subtitles.spinzs_mod.misc.electrium_shock",
+    "sounds": [
+      {
+        "name": "spinzs_mod:electrium_shock",
+        "stream": false
+      }
+    ]
+  },
+  "spinzs_mod.particle_accelerator.pa_startup": {
+    "subtitle": "subtitles.spinzs_mod.particle_accelerator.pa_startup",
+    "sounds": [
+      {
+        "name": "spinzs_mod:pa_startup",
+        "stream": false
+      }
+    ]
+  },
+  "spinzs_mod.wip": {
+    "subtitle": "subtitles.spinzs_mod.wip",
+    "sounds": [
+      {
+        "name": "spinzs_mod:wip",
+        "stream": false
+      }
+    ]
+  },
+  "spinzs_mod.items.popper.pop": {
+    "subtitle": "subtitles.spinzs_mod.items.popper.pop",
+    "sounds": [
+      {
+        "name": "spinzs_mod:popper",
+        "stream": false
+      }
+    ]
+  },
+  "spinzs_mod.items.popper.throw": {
+    "subtitle": "subtitles.spinzs_mod.items.popper.throw",
+    "sounds": [
+      {
+        "name": "spinzs_mod:popper_throw",
+        "stream": false
+      }
+    ]
+  },
+  "spinzs_mod.particle_accelerator.running": {
+    "subtitle": "subtitles.spinzs_mod.particle_accelerator.running",
+    "sounds": [
+      {
+        "name": "spinzs_mod:pa_running",
+        "stream": false
+      }
+    ]
+  },
+  "blocks.paramelaconite.break": {
+    "subtitle": "subtitles.blocks.paramelaconite.break",
+    "sounds": [
+      {
+        "name": "spinzs_mod:paramelaconite_break",
+        "stream": false
+      }
+    ]
+  },
+  "blocks.paramelaconite.fall": {
+    "subtitle": "subtitles.blocks.paramelaconite.fall",
+    "sounds": [
+      {
+        "name": "spinzs_mod:paramelaconite_walk2",
+        "stream": false
+      }
+    ]
+  },
+  "blocks.paramelaconite.hit": {
+    "subtitle": "subtitles.blocks.paramelaconite.hit",
+    "sounds": [
+      {
+        "name": "spinzs_mod:paramelaconite_hit",
+        "stream": false
+      },
+      {
+        "name": "spinzs_mod:paramelaconite_hit2",
+        "stream": false
+      }
+    ]
+  },
+  "blocks.paramelaconite.place": {
+    "subtitle": "subtitles.blocks.paramelaconite.place",
+    "sounds": [
+      {
+        "name": "spinzs_mod:paramelaconite_place",
+        "stream": false
+      }
+    ]
+  },
+  "blocks.paramelaconite.step": {
+    "subtitle": "subtitles.blocks.paramelaconite.step",
+    "sounds": [
+      {
+        "name": "spinzs_mod:paramelaconite_walk1",
+        "stream": false
+      },
+      {
+        "name": "spinzs_mod:paramelaconite_walk2",
+        "stream": false
+      }
+    ]
+  },
+  "blocks.electrium_furnace.incinerate": {
+    "subtitle": "subtitles.blocks.electrium_furnace.incinerate",
+    "sounds": [
+      {
+        "name": "spinzs_mod:electrium_furnace_incinerate",
+        "stream": false
+      }
+    ]
+  },
+  "blocks.electrium_crusher.crush": {
+    "subtitle": "subtitles.blocks.electrium_crusher.crush",
+    "sounds": [
+      {
+        "name": "spinzs_mod:electrium_crusher_crush",
+        "stream": false
+      }
+    ]
+  }
+}

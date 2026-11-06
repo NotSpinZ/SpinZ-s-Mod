@@ -1,0 +1,9 @@
+{
+  "parent": "spinzs_mod:custom/particle_accelerator_speed_module",
+  "textures": {
+    "all": "spinzs_mod:block/particle_accelerator_speed_module",
+    "particle": "spinzs_mod:block/particle_accelerator_speed_module",
+    "0": "spinzs_mod:block/particle_accelerator_speed_module"
+  },
+  "render_type": "cutout_mipped"
+}

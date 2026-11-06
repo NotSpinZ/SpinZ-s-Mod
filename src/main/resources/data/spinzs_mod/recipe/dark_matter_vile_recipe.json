@@ -1,0 +1,21 @@
+{
+  "type": "spinzs_mod:particle_acceleration",
+  "ingredients": [
+    {
+      "tag": "c:matter_dupe/dark"
+    },
+    {
+      "item": "spinzs_mod:vile"
+    }
+  ],
+  "strings": [
+    "heat: 200°C",
+    "speed: 1 km/s"
+  ],
+  "outputs": [
+    {
+      "id": "spinzs_mod:dark_matter_vile",
+      "count": 1
+    }
+  ]
+}

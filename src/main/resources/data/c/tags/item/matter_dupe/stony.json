@@ -1,0 +1,334 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "twilightforest:cracked_castle_brick_stairs",
+      "required": false
+    },
+    "minecraft:polished_blackstone_bricks",
+    "minecraft:blackstone_slab",
+    "minecraft:deepslate_brick_wall",
+    "minecraft:red_sandstone",
+    "minecraft:chiseled_red_sandstone",
+    "minecraft:cut_red_sandstone",
+    "minecraft:polished_andesite_stairs",
+    {
+      "id": "#c:matter_dupe/black_siliconic",
+      "required": false
+    },
+    "minecraft:chiseled_polished_blackstone",
+    "minecraft:nether_brick_stairs",
+    "minecraft:cobbled_deepslate_stairs",
+    "minecraft:cobblestone",
+    "minecraft:polished_tuff_stairs",
+    "minecraft:chiseled_stone_bricks",
+    "minecraft:cracked_stone_bricks",
+    {
+      "id": "ae2:sky_stone_small_brick_slab",
+      "required": false
+    },
+    "minecraft:mossy_stone_bricks",
+    {
+      "id": "twilightforest:bold_castle_brick_pillar",
+      "required": false
+    },
+    "minecraft:stone_bricks",
+    "minecraft:cobblestone_wall",
+    "minecraft:mossy_cobblestone_wall",
+    "minecraft:diorite_stairs",
+    "minecraft:nether_brick",
+    "minecraft:cut_red_sandstone_slab",
+    "minecraft:granite_slab",
+    "minecraft:polished_blackstone",
+    {
+      "id": "ae2:smooth_sky_stone_wall",
+      "required": false
+    },
+    {
+      "id": "ae2:sky_stone_brick",
+      "required": false
+    },
+    {
+      "id": "twilightforest:yellow_castle_rune_brick",
+      "required": false
+    },
+    "minecraft:sandstone_stairs",
+    "minecraft:andesite_wall",
+    "minecraft:polished_blackstone_slab",
+    "minecraft:brick",
+    "minecraft:cobbled_deepslate",
+    "minecraft:blackstone",
+    "minecraft:deepslate_tile_slab",
+    "minecraft:prismarine_wall",
+    {
+      "id": "ae2:smooth_sky_stone_stairs",
+      "required": false
+    },
+    "minecraft:smooth_red_sandstone_slab",
+    {
+      "id": "twilightforest:encased_castle_brick_tile",
+      "required": false
+    },
+    "minecraft:polished_blackstone_brick_wall",
+    "minecraft:purpur_slab",
+    "minecraft:granite_stairs",
+    {
+      "id": "twilightforest:violet_castle_rune_brick",
+      "required": false
+    },
+    "minecraft:polished_deepslate_stairs",
+    "minecraft:grindstone",
+    "minecraft:dark_prismarine_slab",
+    "minecraft:andesite_stairs",
+    "minecraft:cracked_deepslate_bricks",
+    "minecraft:blackstone_stairs",
+    "minecraft:granite_wall",
+    "minecraft:red_sandstone_stairs",
+    {
+      "id": "twilightforest:mossy_castle_brick_stairs",
+      "required": false
+    },
+    "minecraft:polished_andesite_slab",
+    "minecraft:deepslate_brick_stairs",
+    "minecraft:polished_granite",
+    "minecraft:tuff_stairs",
+    "minecraft:diorite",
+    "minecraft:polished_diorite",
+    "minecraft:andesite",
+    "minecraft:stone",
+    "minecraft:red_nether_brick_slab",
+    {
+      "id": "ae2:sky_stone_block",
+      "required": false
+    },
+    "minecraft:granite",
+    "minecraft:chiseled_nether_bricks",
+    "minecraft:cracked_deepslate_tiles",
+    "minecraft:polished_blackstone_brick_stairs",
+    "minecraft:reinforced_deepslate",
+    "minecraft:polished_deepslate",
+    "minecraft:end_stone_brick_wall",
+    "minecraft:polished_andesite",
+    "minecraft:mossy_stone_brick_slab",
+    {
+      "id": "twilightforest:castle_brick",
+      "required": false
+    },
+    {
+      "id": "twilightforest:castle_brick_stairs",
+      "required": false
+    },
+    "minecraft:red_sandstone_wall",
+    {
+      "id": "ae2:sky_stone_brick_wall",
+      "required": false
+    },
+    "minecraft:end_stone_brick_stairs",
+    "minecraft:infested_cobblestone",
+    "minecraft:infested_stone_bricks",
+    "minecraft:pointed_dripstone",
+    "minecraft:tuff",
+    "minecraft:infested_stone",
+    "minecraft:diorite_wall",
+    "minecraft:basalt",
+    {
+      "id": "ae2:sky_stone_small_brick_stairs",
+      "required": false
+    },
+    "minecraft:cobbled_deepslate_slab",
+    "minecraft:infested_chiseled_stone_bricks",
+    "minecraft:infested_mossy_stone_bricks",
+    "minecraft:blackstone_wall",
+    "minecraft:infested_cracked_stone_bricks",
+    "minecraft:mossy_cobblestone_slab",
+    "minecraft:polished_diorite_slab",
+    "minecraft:polished_tuff",
+    "minecraft:netherrack",
+    "minecraft:smooth_red_sandstone_stairs",
+    "minecraft:red_nether_brick_stairs",
+    {
+      "id": "ae2:sky_stone_wall",
+      "required": false
+    },
+    "minecraft:prismarine_brick_stairs",
+    "minecraft:purpur_block",
+    {
+      "id": "ae2:smooth_sky_stone_slab",
+      "required": false
+    },
+    "minecraft:prismarine_brick_slab",
+    "minecraft:red_sandstone_slab",
+    "minecraft:prismarine_stairs",
+    "minecraft:polished_blackstone_wall",
+    "minecraft:stone_brick_wall",
+    "minecraft:stone_hoe",
+    "minecraft:stone_shovel",
+    "minecraft:cobblestone_stairs",
+    "minecraft:brick_wall",
+    "minecraft:mossy_stone_brick_stairs",
+    {
+      "id": "twilightforest:encased_castle_brick_stairs",
+      "required": false
+    },
+    "minecraft:cobbled_deepslate_wall",
+    "minecraft:tuff_brick_wall",
+    "minecraft:smooth_sandstone_slab",
+    "minecraft:smooth_red_sandstone",
+    "minecraft:dripstone_block",
+    "minecraft:cut_sandstone_slab",
+    "minecraft:deepslate_tiles",
+    "minecraft:diorite_slab",
+    "minecraft:sandstone_slab",
+    "minecraft:petrified_oak_slab",
+    "minecraft:smooth_stone_slab",
+    "minecraft:stone_brick_slab",
+    "minecraft:nether_brick_slab",
+    "minecraft:cobblestone_slab",
+    "minecraft:brick_slab",
+    "minecraft:mossy_stone_brick_wall",
+    "minecraft:chiseled_tuff_bricks",
+    {
+      "id": "ae2:sky_stone_stairs",
+      "required": false
+    },
+    "minecraft:chiseled_deepslate",
+    "minecraft:quartz_slab",
+    {
+      "id": "ae2:sky_stone_brick_slab",
+      "required": false
+    },
+    "minecraft:nether_bricks",
+    "minecraft:deepslate_tile_stairs",
+    "minecraft:purpur_pillar",
+    "minecraft:stone_pickaxe",
+    {
+      "id": "ae2:sky_stone_slab",
+      "required": false
+    },
+    "minecraft:bedrock",
+    "minecraft:dark_prismarine",
+    "minecraft:tuff_wall",
+    "minecraft:nether_brick_wall",
+    "minecraft:prismarine_bricks",
+    "minecraft:prismarine",
+    "minecraft:stone_sword",
+    "minecraft:polished_deepslate_wall",
+    "minecraft:tuff_slab",
+    "minecraft:end_stone",
+    "minecraft:prismarine_shard",
+    {
+      "id": "twilightforest:mossy_castle_brick",
+      "required": false
+    },
+    {
+      "id": "twilightforest:thick_castle_brick",
+      "required": false
+    },
+    "minecraft:smooth_sandstone_stairs",
+    "minecraft:tuff_bricks",
+    {
+      "id": "twilightforest:magenta_castle_rune_brick",
+      "required": false
+    },
+    "minecraft:mossy_cobblestone",
+    "minecraft:sandstone_wall",
+    {
+      "id": "ae2:sky_stone_brick_stairs",
+      "required": false
+    },
+    "minecraft:polished_blackstone_stairs",
+    "minecraft:tuff_brick_slab",
+    "minecraft:brick_stairs",
+    "minecraft:cracked_nether_bricks",
+    "minecraft:stone_slab",
+    {
+      "id": "twilightforest:blue_castle_rune_brick",
+      "required": false
+    },
+    {
+      "id": "ae2:sky_stone",
+      "required": false
+    },
+    "minecraft:polished_basalt",
+    {
+      "id": "twilightforest:cracked_castle_brick",
+      "required": false
+    },
+    "minecraft:furnace",
+    "minecraft:polished_deepslate_slab",
+    "minecraft:end_stone_bricks",
+    "minecraft:deepslate",
+    "minecraft:stone_stairs",
+    "minecraft:smooth_sandstone",
+    "minecraft:chiseled_tuff",
+    "minecraft:bricks",
+    "minecraft:dark_prismarine_stairs",
+    "minecraft:polished_tuff_wall",
+    "minecraft:stone_axe",
+    "minecraft:tuff_brick_stairs",
+    "minecraft:smooth_stone",
+    "minecraft:deepslate_brick_slab",
+    "minecraft:deepslate_tile_wall",
+    "minecraft:stone_brick_stairs",
+    {
+      "id": "twilightforest:worn_castle_brick_stairs",
+      "required": false
+    },
+    {
+      "id": "twilightforest:encased_castle_brick_pillar",
+      "required": false
+    },
+    {
+      "id": "ae2:sky_stone_chest",
+      "required": false
+    },
+    "minecraft:andesite_slab",
+    {
+      "id": "ae2:sky_stone_small_brick",
+      "required": false
+    },
+    "minecraft:mossy_cobblestone_stairs",
+    "minecraft:end_stone_brick_slab",
+    "minecraft:polished_granite_slab",
+    "minecraft:polished_granite_stairs",
+    "minecraft:nether_brick_fence",
+    "minecraft:prismarine_slab",
+    "minecraft:smooth_basalt",
+    "minecraft:polished_blackstone_brick_slab",
+    {
+      "id": "ae2:sky_stone_tank",
+      "required": false
+    },
+    "minecraft:cracked_polished_blackstone_bricks",
+    "minecraft:cut_sandstone",
+    {
+      "id": "ae2:smooth_sky_stone_chest",
+      "required": false
+    },
+    "minecraft:red_nether_bricks",
+    "minecraft:red_nether_brick_wall",
+    "minecraft:polished_tuff_slab",
+    "minecraft:polished_diorite_stairs",
+    "minecraft:chiseled_sandstone",
+    "minecraft:sandstone",
+    "minecraft:deepslate_bricks",
+    "minecraft:calcite",
+    {
+      "id": "twilightforest:bold_castle_brick_tile",
+      "required": false
+    },
+    {
+      "id": "twilightforest:bold_castle_brick_stairs",
+      "required": false
+    },
+    {
+      "id": "ae2:sky_stone_small_brick_wall",
+      "required": false
+    },
+    {
+      "id": "twilightforest:worn_castle_brick",
+      "required": false
+    },
+    "minecraft:purpur_stairs"
+  ]
+}

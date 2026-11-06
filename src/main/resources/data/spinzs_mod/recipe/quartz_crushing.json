@@ -1,0 +1,14 @@
+{
+  "type": "spinzs_mod:electrium_crushing_jei",
+  "ingredients": [
+    {
+      "item": "minecraft:quartz_block"
+    }
+  ],
+  "outputs": [
+    {
+      "id": "minecraft:quartz",
+      "count": 4
+    }
+  ]
+}

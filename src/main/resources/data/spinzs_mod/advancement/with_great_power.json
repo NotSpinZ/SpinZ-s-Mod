@@ -1,0 +1,38 @@
+{
+  "display": {
+    "icon": {
+      "id": "spinzs_mod:simple_electrium_board"
+    },
+    "title": {
+      "translate": "advancements.with_great_power.title"
+    },
+    "description": {
+      "translate": "advancements.with_great_power.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "with_great_power_1": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "spinzs_mod:simple_electrium_board",
+              "spinzs_mod:complex_electrium_board",
+              "spinzs_mod:quantum_electrium_board"
+            ],
+            "count": {
+              "min": 1,
+              "max": 9999999999999
+            }
+          }
+        ]
+      }
+    }
+  },
+  "parent": "spinzs_mod:wir_did_he_come_from"
+}

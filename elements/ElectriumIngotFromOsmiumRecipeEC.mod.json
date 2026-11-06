@@ -1,0 +1,24 @@
+{
+  "_fv": 85,
+  "_type": "jeirecipe",
+  "definition": {
+    "category": "electrium_collecting",
+    "ingredients": [
+      {
+        "value": "Items.IRON_INGOT"
+      }
+    ],
+    "integers": [],
+    "strings": [
+      "Power Required: 100"
+    ],
+    "recipetype": "ElectriumCollecting",
+    "results": [
+      {
+        "value": "CUSTOM:ElectriumIngot"
+      }
+    ],
+    "resultCounts": [],
+    "count": 0
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "_fv": 85,
+  "_type": "jeirecipe",
+  "definition": {
+    "category": "particle_acceleration",
+    "ingredients": [
+      {
+        "value": "TAG:c:matter_dupe/adamantine"
+      },
+      {
+        "value": "CUSTOM:Vile"
+      }
+    ],
+    "integers": [],
+    "strings": [
+      "heat: 120°C",
+      "speed: 150 km/s"
+    ],
+    "recipetype": "ParticleAcceleration",
+    "results": [
+      {
+        "value": "CUSTOM:AdamantineMatterVile"
+      }
+    ],
+    "resultCounts": [],
+    "count": 0
+  }
+}

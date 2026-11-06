@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:glass_bottle",
+    "spinzs_mod:flask",
+    "spinzs_mod:vile"
+  ]
+}

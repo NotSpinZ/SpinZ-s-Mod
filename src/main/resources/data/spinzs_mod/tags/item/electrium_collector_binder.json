@@ -1,0 +1,15 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "mekanism:ingot_osmium",
+      "required": false
+    },
+    "minecraft:iron_ingot",
+    {
+      "id": "mekanism:nugget_osmium",
+      "required": false
+    },
+    "minecraft:iron_nugget"
+  ]
+}

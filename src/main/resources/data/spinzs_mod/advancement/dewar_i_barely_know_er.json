@@ -1,0 +1,34 @@
+{
+  "display": {
+    "icon": {
+      "id": "spinzs_mod:dewar"
+    },
+    "title": {
+      "translate": "advancements.dewar_i_barely_know_er.title"
+    },
+    "description": {
+      "translate": "advancements.dewar_i_barely_know_er.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "dewar_i_barely_know_er_0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "spinzs_mod:dewar",
+            "count": {
+              "min": 1,
+              "max": 9999999
+            }
+          }
+        ]
+      }
+    }
+  },
+  "parent": "spinzs_mod:with_great_power"
+}

@@ -1,0 +1,14 @@
+{
+  "type": "spinzs_mod:electrium_crushing_jei",
+  "ingredients": [
+    {
+      "tag": "spinzs_mod:crush_to_cobbled_deepslate"
+    }
+  ],
+  "outputs": [
+    {
+      "id": "minecraft:cobbled_deepslate",
+      "count": 1
+    }
+  ]
+}

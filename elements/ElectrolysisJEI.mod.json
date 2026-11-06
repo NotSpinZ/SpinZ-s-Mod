@@ -1,0 +1,66 @@
+{
+  "_fv": 85,
+  "_type": "jeirecipetype",
+  "definition": {
+    "textureSelector": "electrolyzer_jei.png",
+    "width": 176,
+    "height": 87,
+    "icon": {
+      "value": "CUSTOM:ElectrylosisConductor"
+    },
+    "craftingtables": [
+      {
+        "value": "CUSTOM:ElectrylosisConductor"
+      }
+    ],
+    "enableCraftingtable": true,
+    "enableIntList": false,
+    "enableStringList": false,
+    "disableJeiBorder": true,
+    "title": "Electrolysis",
+    "slotList": [
+      {
+        "type": "INPUT",
+        "x": 61,
+        "y": 17,
+        "slotid": 0
+      },
+      {
+        "type": "OUTPUT",
+        "x": 106,
+        "y": 35,
+        "slotid": 0
+      },
+      {
+        "type": "INPUT",
+        "x": 142,
+        "y": 35,
+        "slotid": 1
+      }
+    ],
+    "components": [
+      {
+        "type": "jei_sprite",
+        "data": {
+          "updateInterval": 1,
+          "sprite": "electrylosis_electrium.png",
+          "spritesCount": 22,
+          "spriteIndex": {
+            "fixedValue": 0.0,
+            "name": ""
+          },
+          "x": 183,
+          "y": 142,
+          "locked": false
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}

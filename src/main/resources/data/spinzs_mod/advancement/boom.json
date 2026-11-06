@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "id": "spinzs_mod:popper"
+    },
+    "title": {
+      "translate": "advancements.boom.title"
+    },
+    "description": {
+      "translate": "advancements.boom.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "boom_0": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "spinzs_mod:frankensteiner"
+}

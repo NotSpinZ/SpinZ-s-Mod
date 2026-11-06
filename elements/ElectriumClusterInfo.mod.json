@@ -1,0 +1,14 @@
+{
+  "_fv": 85,
+  "_type": "jeiinformation",
+  "definition": {
+    "items": [
+      {
+        "value": "CUSTOM:ElectriumCluster"
+      }
+    ],
+    "information": [
+      "Found underground in the Deep Dark and drops Electrium Shards to make Electrium Ingots and most of the machines in the mod."
+    ]
+  }
+}

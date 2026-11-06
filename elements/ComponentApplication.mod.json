@@ -1,0 +1,89 @@
+{
+  "_fv": 85,
+  "_type": "jeirecipetype",
+  "definition": {
+    "textureSelector": "component_applier_jei.png",
+    "width": 175,
+    "height": 89,
+    "icon": {
+      "value": "CUSTOM:ComponentApplier"
+    },
+    "craftingtables": [
+      {
+        "value": "CUSTOM:ComponentApplier"
+      }
+    ],
+    "enableCraftingtable": true,
+    "enableIntList": false,
+    "enableStringList": false,
+    "disableJeiBorder": true,
+    "title": "Component Application",
+    "slotList": [
+      {
+        "type": "INPUT",
+        "x": 43,
+        "y": 53,
+        "slotid": 0
+      },
+      {
+        "type": "INPUT",
+        "x": 25,
+        "y": 26,
+        "slotid": 1
+      },
+      {
+        "type": "INPUT",
+        "x": 61,
+        "y": 26,
+        "slotid": 2
+      },
+      {
+        "type": "OUTPUT",
+        "x": 115,
+        "y": 44,
+        "slotid": 0
+      }
+    ],
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "name": "label_component_applier",
+          "text": {
+            "fixedValue": "Component Applier"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "hasShadow": false,
+          "x": 168,
+          "y": 111,
+          "locked": false
+        }
+      },
+      {
+        "type": "jei_sprite",
+        "data": {
+          "updateInterval": 2,
+          "sprite": "material_applier_ui_element.png",
+          "spritesCount": 11,
+          "spriteIndex": {
+            "fixedValue": 0.0,
+            "name": ""
+          },
+          "x": 202,
+          "y": 140,
+          "locked": false
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}

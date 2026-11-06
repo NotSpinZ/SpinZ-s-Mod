@@ -1,0 +1,27 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:blaze_powder",
+    "minecraft:gold_ingot",
+    "minecraft:glowstone_dust",
+    "spinzs_mod:gold_rod",
+    "minecraft:gold_nugget",
+    "spinzs_mod:glowine",
+    "minecraft:totem_of_undying",
+    "minecraft:golden_apple",
+    "minecraft:blaze_rod",
+    "spinzs_mod:gold_gear",
+    "minecraft:honey_block",
+    "minecraft:glowstone",
+    "spinzs_mod:glowine_block",
+    "minecraft:dandelion",
+    "minecraft:horn_coral_block",
+    "minecraft:golden_carrot",
+    "minecraft:horn_coral_fan",
+    "minecraft:honeycomb_block",
+    "minecraft:enchanted_golden_apple",
+    "minecraft:horn_coral",
+    "minecraft:sunflower",
+    "spinzs_mod:glowing_goop"
+  ]
+}

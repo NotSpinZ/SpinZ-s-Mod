@@ -1,0 +1,55 @@
+{
+  "_fv": 85,
+  "_type": "fluid",
+  "definition": {
+    "name": "Liquid Electrium",
+    "bucketName": "Liquid Electrium Bucket",
+    "textureStill": "liquid_electrium",
+    "textureFlowing": "liquid_electrium",
+    "textureRenderOverlay": "",
+    "hasFog": false,
+    "fogStartDistance": {
+      "fixedValue": 0.0
+    },
+    "fogEndDistance": {
+      "fixedValue": 48.0
+    },
+    "tintType": "No tint",
+    "canMultiply": false,
+    "flowRate": 2,
+    "levelDecrease": 1,
+    "slopeFindDistance": 1,
+    "spawnParticles": false,
+    "dripParticle": {
+      "value": "CUSTOM:PopperBoom"
+    },
+    "flowStrength": 0.0,
+    "luminosity": 4,
+    "density": 1,
+    "viscosity": 0,
+    "temperature": 2500,
+    "type": "WATER",
+    "generateBucket": false,
+    "textureBucket": "",
+    "creativeTabs": [],
+    "emptySound": {
+      "value": ""
+    },
+    "rarity": "COMMON",
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "resistance": 100.0,
+    "luminance": 13,
+    "lightOpacity": 0,
+    "emissiveRendering": true,
+    "tickRate": 0,
+    "ignitedByLava": false,
+    "flammability": 0,
+    "fireSpreadSpeed": 0,
+    "colorOnMap": "DEFAULT",
+    "onEntityCollides": {
+      "name": "LiquidElectriumMobplayerCollidesBlock"
+    }
+  }
+}

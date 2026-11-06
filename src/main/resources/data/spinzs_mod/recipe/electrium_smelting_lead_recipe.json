@@ -1,0 +1,29 @@
+{
+  "type": "spinzs_mod:electrium_smelting_jei",
+  "ingredients": [
+    {
+      "item": "mekanism:raw_lead"
+    },
+    {
+      "item": "mekanism:ingot_lead"
+    },
+    {
+      "item": "spinzs_mod:copper_coil"
+    }
+  ],
+  "integers": [
+    1,
+    1,
+    1
+  ],
+  "outputs": [
+    {
+      "id": "mekanism:ingot_lead",
+      "count": 3
+    },
+    {
+      "id": "spinzs_mod:paramelaconite",
+      "count": 1
+    }
+  ]
+}

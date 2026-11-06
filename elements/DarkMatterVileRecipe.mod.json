@@ -1,0 +1,28 @@
+{
+  "_fv": 85,
+  "_type": "jeirecipe",
+  "definition": {
+    "category": "particle_acceleration",
+    "ingredients": [
+      {
+        "value": "TAG:c:matter_dupe/dark"
+      },
+      {
+        "value": "CUSTOM:Vile"
+      }
+    ],
+    "integers": [],
+    "strings": [
+      "heat: 200°C",
+      "speed: 1 km/s"
+    ],
+    "recipetype": "ParticleAcceleration",
+    "results": [
+      {
+        "value": "CUSTOM:DarkMatterVile"
+      }
+    ],
+    "resultCounts": [],
+    "count": 0
+  }
+}

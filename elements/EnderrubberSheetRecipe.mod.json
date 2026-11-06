@@ -1,0 +1,56 @@
+{
+  "_fv": 85,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 2,
+    "group": "",
+    "unlockingItems": [
+      {
+        "value": "CUSTOM:EnderrubberGoo"
+      },
+      {
+        "value": "CUSTOM:FormicAcidVile"
+      }
+    ],
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:FormicAcidVile"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:EnderrubberGoo"
+      },
+      {
+        "value": "CUSTOM:EnderrubberGoo"
+      },
+      {
+        "value": "CUSTOM:EnderrubberGoo"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:EnderrubberSheet"
+    },
+    "name": "enderrubber_sheet_recipe",
+    "namespace": "mod"
+  }
+}

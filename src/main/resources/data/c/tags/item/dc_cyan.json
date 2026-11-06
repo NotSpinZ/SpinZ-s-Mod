@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:prismarine_crystals",
+    "minecraft:prismarine_shard",
+    "spinzs_mod:pure_electrium",
+    "minecraft:diamond",
+    "minecraft:diamond_block",
+    "minecraft:sea_lantern",
+    "minecraft:blue_orchid"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "_fv": 85,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "unlockingItems": [
+      {
+        "value": "CUSTOM:Paramelaconite"
+      }
+    ],
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Paramelaconite"
+      },
+      {
+        "value": "CUSTOM:Paramelaconite"
+      },
+      {
+        "value": "CUSTOM:Paramelaconite"
+      },
+      {
+        "value": "CUSTOM:Paramelaconite"
+      },
+      {
+        "value": "CUSTOM:Paramelaconite"
+      },
+      {
+        "value": "CUSTOM:Paramelaconite"
+      },
+      {
+        "value": "CUSTOM:Paramelaconite"
+      },
+      {
+        "value": "CUSTOM:Paramelaconite"
+      },
+      {
+        "value": "CUSTOM:Paramelaconite"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:ParamelaconiteBlock"
+    },
+    "name": "paramelaconite_block_recipe",
+    "namespace": "mod"
+  }
+}

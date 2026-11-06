@@ -1,0 +1,33 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "#c:matter_dupe/ambrosic",
+      "required": false
+    },
+    {
+      "id": "#c:matter_dupe/adamantine",
+      "required": false
+    },
+    {
+      "id": "#c:matter_dupe/carbon",
+      "required": false
+    },
+    {
+      "id": "#c:matter_dupe/aquatic",
+      "required": false
+    },
+    {
+      "id": "#c:matter_dupe/ancient_metallic",
+      "required": false
+    },
+    {
+      "id": "#c:matter_dupe/dark",
+      "required": false
+    },
+    {
+      "id": "#c:matter_dupe/amethystine",
+      "required": false
+    }
+  ]
+}

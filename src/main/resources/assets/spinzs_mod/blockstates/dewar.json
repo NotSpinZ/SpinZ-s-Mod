@@ -1,0 +1,49 @@
+{
+  "variants": {
+    "facing=north,dewar_half=top": {
+      "model": "spinzs_mod:block/dewar_0"
+    },
+    "facing=north,dewar_half=bottom": {
+      "model": "spinzs_mod:block/dewar_1"
+    },
+    "facing=north,dewar_half=item": {
+      "model": "spinzs_mod:block/dewar_2"
+    },
+    "facing=east,dewar_half=top": {
+      "model": "spinzs_mod:block/dewar_0",
+      "y": 90
+    },
+    "facing=east,dewar_half=bottom": {
+      "model": "spinzs_mod:block/dewar_1",
+      "y": 90
+    },
+    "facing=east,dewar_half=item": {
+      "model": "spinzs_mod:block/dewar_2",
+      "y": 90
+    },
+    "facing=south,dewar_half=top": {
+      "model": "spinzs_mod:block/dewar_0",
+      "y": 180
+    },
+    "facing=south,dewar_half=bottom": {
+      "model": "spinzs_mod:block/dewar_1",
+      "y": 180
+    },
+    "facing=south,dewar_half=item": {
+      "model": "spinzs_mod:block/dewar_2",
+      "y": 180
+    },
+    "facing=west,dewar_half=top": {
+      "model": "spinzs_mod:block/dewar_0",
+      "y": 270
+    },
+    "facing=west,dewar_half=bottom": {
+      "model": "spinzs_mod:block/dewar_1",
+      "y": 270
+    },
+    "facing=west,dewar_half=item": {
+      "model": "spinzs_mod:block/dewar_2",
+      "y": 270
+    }
+  }
+}
